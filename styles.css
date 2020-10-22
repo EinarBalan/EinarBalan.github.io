@@ -1,0 +1,25 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+    font-family: 'Cabin', sans-serif;
+}
+
+
+
+.profile-picture {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    border: 8px solid rgb(75, 143, 232);
+    background-color: rgb(217, 233, 247);
+    
+}
+
+
