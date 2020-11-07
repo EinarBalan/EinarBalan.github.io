@@ -19,6 +19,12 @@ h1 {
     border-radius: 50%;
     border: 8px solid rgb(75, 143, 232);
     background-color: rgb(217, 233, 247);
+    transition: .3s;
+}
+
+#profile-picture:hover {
+    width: 425px;
+    height:425px;
 }
 
 
