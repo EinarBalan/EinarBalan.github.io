@@ -1,5 +1,8 @@
 const profilePicture = document.querySelector("#profile-picture");
 let isClicked = false;
+let primaryRed = "#FF3434";
+let primaryBlue = "#2697FF";
+
 
 const onPicClick = () => {
     console.log(profilePicture);
@@ -18,4 +21,16 @@ const onPicClick = () => {
     isClicked = !isClicked;
 }
 
-// profilePicture.addEventListener("click", onPicClick);
+const headlineTextUpper = document.getElementById("upperheadline");
+const headlineTextLower = document.getElementById("lowerheadline");
+
+var isSafari = navigator.vendor && navigator.vendor.indexOf('Apple') > -1 &&
+               navigator.userAgent &&
+               navigator.userAgent.indexOf('CriOS') == -1 &&
+               navigator.userAgent.indexOf('FxiOS') == -1;
+
+if (isSafari) {
+    headlineTextUpper.style.webkitTextFillColor = "black";
+    headlineTextLower.style.webkitTextFillColor = primaryBlue;
+
+}
