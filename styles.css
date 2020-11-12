@@ -197,8 +197,9 @@ body {
     }
     #profile-picture {
         display: inline;
+        object-fit: cover;
         height: 100%;
-        width: 100%;
+        width: 1000px;
     }
     #profile-picture-mobile {
         display: none;
