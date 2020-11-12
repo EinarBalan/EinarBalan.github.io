@@ -45,7 +45,7 @@ body {
     height: 100%;
     background: -webkit-linear-gradient(left, #FF3434, #2697FF);
     -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    -webkit-text-fill-color: black;
 }
 
 #headline-text-large {
@@ -104,7 +104,7 @@ body {
         height: 100%;
         background: -webkit-linear-gradient(left, #FF3434, #2697FF);
         -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
+        -webkit-text-fill-color: black;
     }
     #headline-text-large {
         font-weight: 800;
