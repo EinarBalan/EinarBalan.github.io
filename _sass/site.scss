@@ -9,7 +9,7 @@ body {
 
 .navbar {
     background-color: white;
-    box-shadow: 3px 3px rgb(232, 232, 232);
+    box-shadow: 3px 3px $light-background;
     position: -webkit-sticky;
     position: sticky;
     top: 0;

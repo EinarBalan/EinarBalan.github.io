@@ -58,6 +58,12 @@
     }
 }
 
+#lowerheadline {
+    text-decoration: none;
+    color: $port-blue;
+    
+}
+
 #headline-text-large {
     font-weight: 800;
     font-size: 1.5em;
@@ -91,7 +97,7 @@
     max-height: 600px;
     background-color: rgb(244, 242, 242);
     border-radius: 50%;
-    box-shadow: 3px 3px 3px gray;
+    box-shadow: 3px 3px 3px 3px $shadow-color;
     @media (min-width: $tablet-width) {
         display: inline;
         // object-fit: cover;

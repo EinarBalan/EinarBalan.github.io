@@ -34,6 +34,12 @@ defaults:
     values:
       layout: "default"
 
+#collections
+collections:
+  projects:
+    permalink: /projects/:name
+    output: true
+
 # Build settings
 markdown: kramdown
 plugins:
