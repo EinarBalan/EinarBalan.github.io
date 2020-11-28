@@ -35,7 +35,7 @@ window.mobileAndTabletCheck = function () {
     return check;
 };
 
-if (isSafari || window.mobileAndTabletCheck) {
+if (isSafari) {
     headlineTextUpper.style.webkitTextFillColor = "black";
     headlineTextLower.style.webkitTextFillColor = primaryBlue;
 
