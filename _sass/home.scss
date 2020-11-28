@@ -1,0 +1,54 @@
+#home {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    text-align: center;
+    height: 100vh;
+    background-image: url("../img/Home\ Background.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+.headline {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+    font-family: $header-font;
+    font-size: 60px;
+    font-weight: 500;
+    margin-top: 200px;
+    margin-right: 75px;
+    width: 300px;
+    height: 450px;
+}
+#headline-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 30px;
+    height: 100%;
+    background: $red-blue-gradient;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+#headline-text-large {
+    font-weight: 800;
+    font-size: 1.5em;
+    transition: .3s;
+    -webkit-text-fill-color: transparent;
+
+}
+#profile-picture {
+    display: inline;
+    object-fit: cover;
+    height: 100%;
+    width: 1000px;
+}
+
+#headline-text-large:hover {
+    font-size: 1.6em;
+    font-weight: 900;
+}
