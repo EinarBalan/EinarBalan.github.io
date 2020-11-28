@@ -1,12 +1,22 @@
 #home {
-    display: flex;
-    flex-direction: row;
-    text-align: center;
-    height: 100vh;
-    background-image: url("../img/Home\ Background.svg");
-    background-repeat: no-repeat;
-    background-size: cover;
     margin: 0px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 95vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    @media (min-width: $tablet-width) {
+        flex-direction: row;
+        align-items: flex-start;
+        height: 100vh;
+        @media (min-height: $tablet-height) {
+            background-image: url("../img/Home\ Background.svg");
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    }
 }
 
 .headline {
@@ -18,52 +28,77 @@
     font-family: $header-font;
     font-size: $header-font-size;
     font-weight: 500;
-    margin-top: 200px;
     width: 100%;
-    @media (min-width: $desktop-width) {
+    height: 10%;
+    @media (min-width: $tablet-width) {
         width: 50%;
+        height: 450px;
+        margin-top: 200px;
     }
-    height: 450px;
 }
 #headline-text {
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
     margin: 30px;
     height: 100%;
-    background: $red-blue-gradient;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: $port-blue;
+    justify-content: center;
+    @media (min-width: $tablet-width) {
+        justify-content: space-between;
+        background: $red-blue-gradient;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
 }
+#upperheadline {
+    display: none;
+    @media (min-width: $tablet-width) {
+        display: inline;
+    }
+}
+
 #headline-text-large {
     font-weight: 800;
     font-size: 1.5em;
     transition: 0.3s;
-    -webkit-text-fill-color: transparent;
+    margin-top: 25px;
+    @media (min-width: $tablet-width) {
+        margin-top: 0px;
+        -webkit-text-fill-color: transparent;
+    }
 }
 
 .profile-picture-container {
-    width: 0%;
-    @media (min-width: $desktop-width) {
-        width: 50%;
-    }
+    width: 100%;
     display: flex;
-    margin-top: 120px;
-    // justify-content: center;
-    // align-items: center;
+    padding: 5%;
+    justify-content: center;
+    align-items: center;
+    @media (min-width: $tablet-width) {
+        margin-top: 120px;
+        padding: 0%;
+    }
+    @media (max-height: 768px) {
+        display: none;
+    }
 }
 
 #profile-picture {
-    display: none;
+    max-width: 100%;
+    max-height: 100%;
+    max-height: 600px;
     background-color: rgb(244, 242, 242);
-    @media (min-width: $desktop-width) {
+    border-radius: 50%;
+    box-shadow: 3px 3px 3px gray;
+    @media (min-width: $tablet-width) {
         display: inline;
         // object-fit: cover;
         width: 600px;
         height: 600px;
+        
     }
-    border-radius: 50%;
-    box-shadow: 3px 3px 3px gray;
+    
+    
 }
 
 #headline-text-large:hover {
