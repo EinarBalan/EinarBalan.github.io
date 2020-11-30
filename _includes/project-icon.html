@@ -1,6 +1,10 @@
 <div class="icon-container" >
     <a href="{{project.download_link}}" target="_blank"> 
-        <div class="project-icon"></div>
+        <div class="project-icon">
+            {{% if project.icon %}}
+            <img src="..\img\{{ project.icon }}"/>
+            {{% endif %}}
+        </div>
     </a>
     {{ project.name }}
 </div>

@@ -7,6 +7,7 @@ group: personal, team, or client
 download_link: link to download
 github: link to github
 order: of importance
+icon: project icon link
 ```
 
 Content: 
