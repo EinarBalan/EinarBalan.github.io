@@ -5,5 +5,5 @@ group: team
 download_link: https://teachla.uclaacm.com/
 github_link: https://github.com/uclaacm/teach-la-website
 order: 1
-icon: teachla-icon.png
+icon: teachLA-icon.png
 ---
