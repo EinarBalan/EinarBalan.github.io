@@ -30,6 +30,11 @@ body {
     font-size: $body-font-size;
     padding-left: 25px;
     font-family: $body-font;
+
+    a {
+        text-decoration: none;
+        color: black;
+    }
 }
 
 .navbar-item {
@@ -47,10 +52,6 @@ body {
     display: inline-block;
     background: $red-blue-gradient;
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
-}
-
-.navbar a {
-    text-decoration: none;
-    color: black;
 }

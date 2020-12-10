@@ -6,19 +6,19 @@ layout: default
 {% assign client = site.projects | where_exp: "item", "item.group == 'client' " | sort:"order" %}
 
 
-<div id="home">
-    <div class="headline">
+<section id="home">
+    <div class="headline-container">
         <div id="headline-text">
             <span id="upperheadline">Student. <br> Creator. <br> Engineer. <br> </span>
-            <div id="headline-text-large"> <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank"> Einar.</a></div>
+            <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank"> Einar.</a>
         </div>
     </div>
     <div class="profile-picture-container">
         <img id="profile-picture" src="img/pfp.png"></img>
     </div>
-</div>
+</section>
 
-<div id="projects">
+<section id="projects">
     <div class="header-container" >
         <div class="header"> Projects </div>
         <div class="spacer"></div>
@@ -56,7 +56,7 @@ layout: default
             {% endfor %}
         </div>
     </div>
-</div>
+</section>
 
 
 
