@@ -10,6 +10,25 @@ html {
 body {
     padding: 0px;
     margin: 0px;
+    font-family: $body-font;
+    font-size: $body-font-size;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    border-bottom: solid 2px $light-background;
+}
+
+.header {
+    font-family: $header-font;
+    font-size: $header-font-size;
+    font-weight: 500;
+}
+
+.subheader {
+    font-family: $header-font;
+    font-size: $subheader-font-size;
 }
 
 .navbar {
@@ -26,10 +45,7 @@ body {
 
     }
     width: 100%;
-    font-family: sans-serif;
-    font-size: $body-font-size;
     padding-left: 25px;
-    font-family: $body-font;
 
     a {
         text-decoration: none;

@@ -7,11 +7,9 @@ layout: default
 
 
 <section id="home">
-    <div class="headline-container">
-        <div id="headline-text">
-            <span id="upperheadline">Student. <br> Creator. <br> Engineer. <br> </span>
-            <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank"> Einar.</a>
-        </div>
+    <div class="header home-header-container">
+        <span id="upperheadline">Student. <br> Creator. <br> Engineer. <br> </span>
+        <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank"> Einar.</a>
     </div>
     <div class="profile-picture-container">
         <img id="profile-picture" src="img/pfp.png"></img>
@@ -19,43 +17,46 @@ layout: default
 </section>
 
 <section id="projects">
-    <div class="header-container" >
-        <div class="header"> Projects </div>
+    <div class="header projects-header-container">
+        <div> Projects </div>
         <div class="spacer"></div>
     </div>
 
+
     <div class="project-group-container">
-        <div class="project-group-container-header">
+        <div class="subheader project-group-container-header">
             Personal
         </div>
         <div class="projects-container">
             {% for project in personal %}
-                {% include project-icon.html %}
+            {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
 
     <div class="project-group-container">
-        <div class="project-group-container-header">
+        <div class="subheader project-group-container-header">
             Team
         </div>
         <div class="projects-container">
             {% for project in team %}
-                {% include project-icon.html %}
+            {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
 
     <div class="project-group-container">
-        <div class="project-group-container-header">
+        <div class="subheader project-group-container-header">
             Client
         </div>
         <div class="projects-container">
             {% for project in client %}
-                {% include project-icon.html %}
+            {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
+
+
 </section>
 
 

@@ -1,43 +1,18 @@
 #projects {
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    font-family: $body-font;
-    border-top: solid 2px $light-background;
-    border-bottom: solid 2px $light-background;
-
+    text-align: center;
 }
 
-.header-container {
+.projects-header-container {
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    text-align: left;
-    font-family: $header-font;
-    font-size: $header-font-size;
-    font-weight: 500;
-    width: 100%;
-    height: 10%;
-    margin-top: 125px;
+    margin-top: 200px;
+    margin-bottom: 70px;
     @media (min-width: $tablet-width) {
         width: fit-content;
-        // height: 450px;
         margin-right: 100px;
-    }
-}
-
-.header {
-    width: 60%;
-    font-family: $header-font;
-    font-size: $header-font-size;
-    display: flex;
-    flex-direction: column;
-    margin: 30px;
-    margin-bottom: 70px;
-    justify-content: center;
-    text-align: center;
-    @media (min-width: $tablet-width) {
         text-align: start;
     }
 }
@@ -58,9 +33,13 @@
     border-radius: 30px;
     border: solid 1px $light-background;
     box-shadow: 2px 2px 3px $shadow-color;
-    width: 70%;
+    width: 90%;
     max-width: 1000px;
     margin-bottom: 125px;
+
+    @media (min-width: $desktop-width) {
+        width: 70%;
+    }
 
     .project-group-container-header {
         padding-top: 15px;
@@ -69,8 +48,6 @@
         border-top-left-radius: 30px;
         border-top-right-radius: 30px;
         background-color: $light-background;
-        font-family: $header-font;
-        font-size: $subheader-font-size;
         text-align: center;
 
         @media (min-width: $tablet-width) {
@@ -80,9 +57,11 @@
     }
 
     .projects-container {
+        padding-top: 50px;
         padding-bottom: 50px;
         display: grid;
         grid-template-columns: 1fr;
+        grid-row-gap: 50px;
         font-size: 24px;
 
         @media (min-width: $tablet-width) {
@@ -94,7 +73,6 @@
         }  
 
         .icon-container {
-            margin-top: 60px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -117,16 +95,13 @@
                 transition: ease-in-out;
                 transition-duration: .15s;
             }
+            
             img:hover {
                 border: solid 3px $port-blue;
                 box-shadow: 3px 3px 3px $shadow-color;
-                
             }
         }
-
-        
-    }
-    
+    } 
 }
 
 
