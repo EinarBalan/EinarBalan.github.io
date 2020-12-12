@@ -6,5 +6,11 @@
             {{% endif %}}
         </div>
     </a>
-    {{ project.name }}
+    <div class="icon-name">
+        {% if project.platform_icon %}
+        <img src="/img/{{ project.platform_icon }}"></img>
+        {% endif %}
+        {{ project.name }}
+    </div>
+    
 </div>

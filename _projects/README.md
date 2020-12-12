@@ -8,6 +8,7 @@ download_link: link to download
 github: link to github
 order: of importance
 icon: project icon link
+platform_icon: icon of platform logo
 ```
 
 Content: 

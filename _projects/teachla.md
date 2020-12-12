@@ -6,4 +6,6 @@ download_link: https://teachla.uclaacm.com/
 github_link: https://github.com/uclaacm/teach-la-website
 order: 1
 icon: teachLA-icon.png
+platform_icon: web.svg
+
 ---

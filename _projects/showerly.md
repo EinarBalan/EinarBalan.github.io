@@ -6,4 +6,6 @@ download_link: https://play.google.com/store/apps/details?id=com.balanstudios.sh
 github_link: https://github.com/EinarBalan/ShowerTimer
 order: 1
 icon: showerly-icon.png
+platform_icon: android.svg
+
 ---
