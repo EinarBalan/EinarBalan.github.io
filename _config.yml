@@ -39,6 +39,9 @@ collections:
   projects:
     permalink: /projects/:name
     output: true
+  links:
+    permalink: /links/:name
+    output: true
 
 # Build settings
 markdown: kramdown

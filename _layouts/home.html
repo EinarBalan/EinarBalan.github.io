@@ -4,12 +4,13 @@ layout: default
 {% assign personal = site.projects | where_exp: "item", "item.group == 'personal' " | sort:"order" %}
 {% assign team = site.projects | where_exp: "item", "item.group == 'team' " | sort:"order" %}
 {% assign client = site.projects | where_exp: "item", "item.group == 'client' " | sort:"order" %}
+{% assign links = site.links | sort:"order" %}
 
 
 <section id="home">
     <div class="header home-header-container">
         <span id="upperheadline">Student. <br> Creator. <br> Engineer. <br> </span>
-        <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank"> Einar.</a>
+        <a id="lowerheadline" href="https://www.youtube.com/watch?v=kzF5dsFiPvs" target="_blank" rel="noopener noreferrer"> Einar.</a>
     </div>
     <div class="profile-picture-container">
         <img id="profile-picture" src="img/pfp.png"></img>
@@ -17,48 +18,78 @@ layout: default
 </section>
 
 <section id="projects">
-    <div class="header projects-header-container">
+    <div class="subheader subheader-container">
         <div> Projects </div>
         <div class="spacer"></div>
     </div>
 
 
-    <div class="project-group-container">
-        <div class="subheader project-group-container-header">
+    <div class="icons-group">
+        <div class="subheader2 icons-group-header">
             Personal
         </div>
-        <div class="projects-container">
+        <div class="icon-grid">
             {% for project in personal %}
             {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
 
-    <div class="project-group-container">
-        <div class="subheader project-group-container-header">
+    <div class="icons-group">
+        <div class="subheader2 icons-group-header">
             Team
         </div>
-        <div class="projects-container">
+        <div class="icon-grid">
             {% for project in team %}
             {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
 
-    <div class="project-group-container">
-        <div class="subheader project-group-container-header">
+    <div class="icons-group">
+        <div class="subheader2 icons-group-header">
             Client
         </div>
-        <div class="projects-container">
+        <div class="icon-grid">
             {% for project in client %}
             {% include project-icon.html %}
             {% endfor %}
         </div>
     </div>
-
-
 </section>
 
+<section id="contact">
+    <div class="subheader subheader-container" >
+        <div> Contact Me</div>
+        <div class="spacer"></div>
+    </div>
 
+    <div class="icons-group">
+        <div class="subheader2 icons-group-header">
+            Links
+        </div>
+        <div class="icon-grid">
+            {% for link in links %}
+            {% include link-icon.html %}
+            {% endfor %}
+        </div>
+    </div>
 
-<script src="script.js"></script>
+    <!-- LEGACY -->
+    <!-- <div class="contact-links-container">
+        <div id="contact-link-names" class="subheader2">
+            <div class="text-gradient">email</div> 
+            <div class="text-gradient">linkedin</div> 
+            <div class="text-gradient">github</div>
+            <div class="text-gradient">more</div> 
+        </div>
+        <div id="contact-links" class="subheader2">
+            <a href="mailto:einar.balan@gmail.com" target="_blank" rel="noopener noreferrer">einar.balan@gmail.com</a>
+            <a href="https://www.linkedin.com/in/einarbalan/" target="_blank" rel="noopener noreferrer">einarbalan</a> 
+            <a href="https://github.com/EinarBalan" target="_blank" rel="noopener noreferrer">EinarBalan</a> 
+            <a href="">about me</a>
+        </div>
+    </div> -->
+</section>
+
+<script src="changeTextColor.js"></script>
