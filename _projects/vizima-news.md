@@ -26,6 +26,6 @@ tags:
 
 
 ---
-Vizma news was the first in a series of news apps that I created with the intention of learning how to use SEO and optimize for certain keywords. I targeted popular entertainment franchises such as the Witcher, Cybyerpunk 2077, and more and built an infinitely scrolling newsfeed (which pulled from google search results) pertaining to each franchise that would be populated with ads here and there. These apps were fairly sucessful, earning around 12,000 downloads in total.
+Vizma news was the first in a series of news apps that I created with the intention of learning how to use SEO and optimize for certain keywords. I targeted popular entertainment franchises such as the Witcher, Cyberpunk 2077, and more and built an infinitely scrolling newsfeed (which pulled from google search results) pertaining to each franchise that would be populated with ads here and there. These apps were fairly sucessful, earning around 12,000 downloads in total.
 
-I still have a lot to learn about SEO and marketing however, and will be doing my best to improve even furthere in future projects. I am proud of what I managed to accomplish, however.
+I still have a lot to learn about SEO and marketing however, and will be doing my best to improve even furthere in future projects. I know there's much room to grow, but I'm still really proud of what I managed to accomplish in terms of finding a user base.
