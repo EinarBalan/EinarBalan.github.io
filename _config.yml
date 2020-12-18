@@ -27,12 +27,19 @@ url: "https://einarbalan.com" # the base hostname & protocol for your site, e.g.
 github_username:  EinarBalan
 
 #defaults
-defaults:
+defaults: #IMPORTANT: HOW TO CONNECT LAYOUTS TO COLLECTIONS
   -
     scope:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+    
 
 #collections
 collections:

@@ -14,6 +14,11 @@ body {
     font-size: $body-font-size;
 }
 
+.content-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 section {
     display: flex;
     flex-direction: column;
@@ -27,10 +32,15 @@ section {
     font-weight: 500;
 }
 
+.underline {
+    text-decoration: underline;
+    text-underline-offset: 8px;
+    text-decoration-thickness: 7px;
+}
+
 .subheader {
     font-family: $header-font;
-    font-size: $header-font-size;
-    font-weight: 500;
+    font-size: $subheader-font-size;
 }
 
 .subheader-container {
@@ -41,7 +51,6 @@ section {
     margin-bottom: 35px;
     @media (min-width: $tablet-width) {
         width: fit-content;
-        // margin-right: 100px;
         text-align: start;
     }
 }
@@ -56,12 +65,6 @@ section {
         align-items: center;
     }
 }
-
-.subheader2 {
-    font-family: $header-font;
-    font-size: $subheader2-font-size;
-}
-
 @mixin text-gradient {
     background: $red-blue-gradient;
     -webkit-background-clip: text;
@@ -92,6 +95,12 @@ a {
     color: black;
 }
 
+pre {
+    font-family: $body-font;
+    font-size: $body-font-size;
+    margin: 3px;
+}
+
 .navbar-item {
     display: flex;
     align-items: center;
@@ -106,4 +115,28 @@ a {
 .navbar-item:hover {
     display: inline-block;
     @include text-gradient;
+}
+
+.icon {
+    border-radius: 30px;
+    width: 250px;
+    height: 250px;   
+
+    img {
+        height: 100%;
+        border-radius: 30px;
+        transition: ease-in-out;
+        transition-duration: .15s;
+        border: solid 3px $project-container-color;
+
+    }
+    
+}
+
+.mb15 {
+    margin-bottom: 15px;
+}
+
+.mb30 {
+    margin-bottom: 30px;
 }
