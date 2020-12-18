@@ -39,6 +39,12 @@ defaults: #IMPORTANT: HOW TO CONNECT LAYOUTS TO COLLECTIONS
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "privacy-policies"
+    values:
+      layout: "privacy-policies"
     
 
 #collections
@@ -49,6 +55,10 @@ collections:
   links:
     permalink: /links/:name
     output: true
+  privacy-policies:
+    permalink: /privacy-policies/:name
+    output: true
+  
 
 # Build settings
 markdown: kramdown
