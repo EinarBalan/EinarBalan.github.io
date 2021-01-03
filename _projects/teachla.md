@@ -3,7 +3,7 @@ name: "TeachLa Site"
 url_name: teachla
 accent_color: "#72d479"
 group: team
-link: https://teachla.uclaacm.com/
+link: https://teachla.uclaacm.com/classes/py1
 github: https://github.com/uclaacm/teach-la-website
 order: 1
 icon: teachLA-icon.png
