@@ -3,7 +3,7 @@ name: "TeachLa Site"
 url_name: teachla
 accent_color: "#72d479"
 group: team
-link: https://teachla.uclaacm.com/classes/py1
+link: https://teachla.uclaacm.com/blog/dev/2021/01/04/introducing-our-new-curriculum-pages/
 github: https://github.com/uclaacm/teach-la-website
 order: 1
 icon: teachLA-icon.png
