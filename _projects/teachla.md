@@ -5,7 +5,7 @@ accent_color: "#72d479"
 group: team
 link: https://teachla.uclaacm.com/blog/dev/2021/01/04/introducing-our-new-curriculum-pages/
 github: https://github.com/uclaacm/teach-la-website
-order: 1
+order: 2
 icon: teachLA-icon.png
 platform: web
 platform_icons: 
