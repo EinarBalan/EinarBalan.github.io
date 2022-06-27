@@ -23,7 +23,7 @@
     text-align: left;
     @media (min-width: $tablet-width) {
         width: fit-content;
-        height: 450px;
+        height: fit-content;
         margin-bottom: 75px;
         margin-right: 130px;
         align-items: start;
@@ -45,7 +45,7 @@
     font-weight: 800;
     font-size: 1.5em;
     transition: 0.3s;
-    margin-top: 25px;
+    margin-top: 10px;
     @media (min-width: $tablet-width) {
         margin-top: 0px;
     }
