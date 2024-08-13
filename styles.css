@@ -63,3 +63,33 @@ hr {
 ul {
     margin-bottom: 5px;
 }
+
+.blog-post {
+    border: 1px solid lightgray;
+    border-radius: 18px;
+    padding: 20px;
+    margin: 30px 20px;
+    cursor: pointer;
+}
+
+.blog-post:hover {
+    background-color: #f9f9f9;
+}
+
+.blog-header {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.blog-header > img {
+    height: 75px;
+    width: 75px;
+    margin-left: 10px;
+}
+
+.blog-header > h1 {
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
