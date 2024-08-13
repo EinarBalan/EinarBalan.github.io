@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>einar</title>
+    <link rel="stylesheet" href="styles.css">
+    <script>
+        const audio = new Audio("assets/einar.mov");
+
+        // pronounce einar
+        document.addEventListener('DOMContentLoaded', () => {
+            const clickable = document.querySelector('.pronounce');
+            clickable.addEventListener('click', () => {
+                audio.play();
+            });
+        });
+    </script>
+    <link rel="icon" href="assets/monk.jpg" type="image/x-icon">    
+</head>
+
+<body>
+    <article>
+        <div id="intro">
+            <img class="portrait" src="assets/monk.jpg" alt="portrait">
+            <div>
+                <h1 class="no-margin">hello!</h1>
+                <p class="no-margin">my name is <span class="pronounce">einar</span>.</p>
+            </div>
+        </div>
+        <p> I'm currently a masters student at UCLA studying CS and I love to teach. </p>
+        <p>as I'm writing this my flight back home has been delayed for the third time and there is no end in sight. I
+            think my website is due for a refresh.</p>
+        <p>if you want to check out my old, <i>slightly</i> embarrassing portfolio, click <a
+                href="https://web.archive.org/web/20230204015922/https://einarbalan.com/" target="_blank"
+                rel="noopener noreferrer">here.</a></p>
+
+        <br>
+        <p><a href="./teaching.html">teaching</a> •
+            <a href="./blog.html">blog</a> •
+            <a href="./projects.html">projects</a> •
+            <a href="./about.html">about me</a> •
+            <a href="./contact.html">contact</a>
+        </p>
+    </article>
+</body>
+
+</html>
+
+<!-- theme idea: newspaper with splashes of color every now and then -->
+<!-- ideas:
+ - drawings from ipad lol
+ - quick blurb about me and passions etc
+ - keep home page simple
+ - links to the other interesting stuff 
+    - spotify/music stuff
+    - github
+    - teaching/slides (making things fun and engaging)
+        - testimonials
+    - email
+    - blog
+        - book reviews
+        - learning to love stuff you are not good at
+            - music, board games, super smash bros, leetcode, crosswords
+            - need to reframe the way you think abt it
+        - using fake names at restaurants
+        - talking to uber drivers
+        - flying back and forth between two states every week (double life, climate change)
+        - on teaching
+        - on breakups
+        - on being a good person (and coping with the fact that you can't be 100% of the time)
+        - on boredom
+        - on forgiveness (one day)
+    - nyt
+    - projects 
+ -->
