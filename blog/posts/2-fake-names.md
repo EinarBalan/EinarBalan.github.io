@@ -51,6 +51,6 @@ I'm still not sure why she asked me if Ross was my real name. but she seemed to 
 
 admittedly, when I was younger I didn't really like the name Einar. for a lot of the reasons I've mentioned here. it just was a bit of a hassle, especially amongst a classroom of 12 year olds. but I've grown to really appreciate it. it's nice to always be the only Einar around. I've never even met another Einar (though I do know they exist -- I think there was a Swedish rapper named Einar who died in a gang conflict. which sucks. who knew Sweden had gangs?? not me. this is something I would put in a footnote) so its nice to be unique. and I definitely stand out. my name at least. 
 
-according to [thebump.com](https://www.thebump.com/b/einar-baby-name), Einar means "lone warrior" or "battle leader" and is often used to refer to Norse warriors who were destined for Valhalla. that's pretty darn cool I think. its the 8,298th most popular name in the United States. so thanks to my dad for naming me Einar. and thank god I'm not named Boris (which is what my mom wanted to name me). 
+according to [thebump.com](https://www.thebump.com/b/einar-baby-name), Einar means "lone warrior" or "battle leader" and is often used to refer to Norse warriors who were destined for Valhalla. that's pretty darn cool I think. it's the 8,298th most popular name in the United States. so thanks to my dad for naming me Einar. and thank god I'm not named Boris (which is what my mom wanted to name me). 
 
 but I'm still going to say my name is Ross at Chic-fil-a.
