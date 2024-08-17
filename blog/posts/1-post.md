@@ -1,0 +1,34 @@
+# yo
+description | date | time to read
+
+- blog
+    - book reviews
+    - learning to love stuff you are not good at
+        - music, board games, super smash bros, leetcode, crosswords
+        - need to reframe the way you think abt it
+    - using fake names at restaurants
+    - talking to uber drivers
+    - flying back and forth between two states every week (double life, climate change)
+    - on teaching
+    - on breakups
+    - on being a good person (and coping with the fact that you can't be 100% of the time)
+        - on feeling good (anecdotally)
+    - on boredom
+    - on forgiveness (one day)
+    - on dialects 
+        - everyone has a slightly different version of english that they internalize
+        - ling 120b, one of the most common things my professor said was *most* people find this ungrammatical, but not all
+        - language shifts, evolves
+        - prescriptivism is dumb
+        - as long as you understand the intent
+        - that being said its not wrong to prefer certain dialects over others
+        - just like art is subjective, so is 
+        - my favorite dialect is person raised in a british family who was raised in the valley in LA and so for some words they sound very british and for others they sound very valley and you're always waiting in anticipation to find out which one you're going to get
+    - on internal monologues
+        - beep
+    - on public speaking
+        - my goal at start of college
+        - my journey
+        - still feel nerves before
+    - on classroom participation
+        - "uncool" to participate

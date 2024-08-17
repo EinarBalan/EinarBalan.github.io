@@ -31,7 +31,7 @@ fs.readdir(postsFolder, (err, files) => {
             </header>
     `;
 
-    files.forEach((file) => {
+    files.reverse().forEach((file) => {
         if (path.extname(file) === '.md') {
             const filePath = path.join(postsFolder, file);
             const fileContent = fs.readFileSync(filePath, 'utf8');
@@ -57,9 +57,10 @@ fs.readdir(postsFolder, (err, files) => {
                 </body>
             </html>`;
 
-            fs.writeFileSync(htmlFilePath, html);
+            fs.writeFileSync(htmlFilePath, html); // create html file for post
             console.log(`Generated ${htmlFileName}`);
 
+            // add link to post to blog page
             const post = `
             <div class="blog-post" onclick="window.location.href='./blog/posts/${htmlFileName}'">
                 <h2>${articleName}</h2>
