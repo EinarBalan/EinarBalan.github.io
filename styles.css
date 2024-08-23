@@ -15,7 +15,7 @@ article {
 }
 
 h1 {
-    font-size: 45px;
+    font-size: clamp(40px, 5vw, 45px); /* Adjust the values as needed */
     font-weight: bold;
     margin-bottom: 20px;
 }
