@@ -63,7 +63,7 @@ I go to sculpture garden a lot. but definitely not as often as the aloof sculptu
 
 the dogs are great. I say they're aloof because they do this thing where they walk directly past me and do not acknowledge me and it is upsetting. let me pet you please. until then you get third.
 
-> note: a brief honourable mention on a similar note to the elderly man and his elderly wife who walk their elderly dog named Navajo. one day the man asked me for directions to Anderson, and then proceeded to not go to Anderson. 
+> note: a brief honourable mention on a similar note are the elderly man and his elderly wife who walk their elderly dog named Navajo. one day the man asked me for directions to Anderson, and then proceeded to not go to Anderson. 
 
 ## 2. powell cat
 
