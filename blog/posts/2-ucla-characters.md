@@ -101,9 +101,9 @@ everyone at the starbucks loved Rufus. he didn't bother anyone and he kept to hi
 
 ## 1. The Ackerman
 
-ok this is the moment you've all been waiting for: my favorite UCLA character is the Ackerman. the Ackerman has it all figured out. he spends every day at Ackerman Union, near the Veggie Grill. he sits at the same table everyday. he carries (I assume) all of his belongings with him. that includes a three legged Chihuaha. he seems extremely content. I aspire to that level of contentedness. 
+ok this is the moment you've all been waiting for: my favorite UCLA character is The Ackerman. The Ackerman has it all figured out. he spends every day at Ackerman Union, near the Veggie Grill. he sits at the same table everyday. he carries (I assume) all of his belongings with him. that includes a three legged Chihuaha. he seems extremely content. I aspire to that level of contentedness. 
 
 I had a dream about him once. I ran into him somewhere on campus and he and his dog had stunning makeovers. he had bleached tips and his dog's fur was braided and dyed pink. they looked great. we started talking and (according to what I wrote down on May 22nd 2024 at 7:21 AM after waking up) he told me his name was Arriet and his dogs name was Sheephound. I was asking him a lot of questions and he was not answering any of them but he was talking a lot. in the dream I was taking notes on a notepad. I told him I jokingly call him the Ackerman and he thought that was funny. he told me he recognized me too. and that I was something of a character. I woke up after he said that.
 
-I give the Ackerman first place.
+I give The Ackerman first place.
 
