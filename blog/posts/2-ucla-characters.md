@@ -3,7 +3,7 @@ an objective ranking | 8/23/24 | 10 min
 
 ---
 
-walking around UCLA for the past three years, I've started to notice a lot of reoccuring characters around campus. people who like to hang out at the same place, at the same times, doing the same things. they say humans are creatures of habit. it's probably true. there are some characters that are so in your face that they're kinda hard to miss. some that are more subtle. all of them contribute to a sense of community on campus that I absolutely love. 
+walking around UCLA for the past three years, I've started to notice a lot of reoccuring characters around campus. people who like to hang out at the same places, at the same times, doing the same things. they say humans are creatures of habit. it's probably true. there are some characters that are so in your face that they're kinda hard to miss. some that are more subtle. all of them contribute to a sense of community on campus that I absolutely love. 
 
 whenever I spot one of them I feel a slight sense of pride, as if I'm uncovering an easter egg. I get that they're just people, but they represent something more to me. they're a huge part of why I love UCLA so much.
 
