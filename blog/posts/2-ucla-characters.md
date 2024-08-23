@@ -59,7 +59,7 @@ I give Marley fourth.
 
 ## 3. aloof sculpture garden dogs
 
-I go to sculpture garden a lot. but definitely not as often as the aloof sculpture garden dogs. they're a pair of what I think are maltese (?) dogs who walk around without a leash and approach random strangers, ocassionally letting someone pet them. their owner sits nearby off in her own world on her laptop. probably answering emails or something. 
+I go to sculpture garden a lot. but definitely not as often as the aloof sculpture garden dogs. they're a pair of what I think are cocker spaniels (?) who walk around without a leash and approach random strangers, ocassionally letting someone pet them. their owner sits nearby off in her own world on her laptop. probably answering emails or something. 
 
 the dogs are great. I say they're aloof because they do this thing where they walk directly past me and do not acknowledge me and it is upsetting. let me pet you please. until then you get third.
 
