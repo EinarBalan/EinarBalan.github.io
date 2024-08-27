@@ -1,5 +1,5 @@
 # on murakami
-the best worst author | 8/26/24 | 5 min
+the best worst author | 8/26/24 | 6 min
 
 ---
 
@@ -39,7 +39,7 @@ anyways, I bring this all up to say that I really enjoyed the story. one of my f
 
 ## murakami moments
 
-if you've read Murakami, you know exactly what I'm talking about. there are a ton of tropes that he uses, intentionally or not, that genuinely make me roll my eyes. if you've gone on r/menwriting women, it's a lot of that kind of thing. he's featured on there quite a bit. I don't know what it is, but he just cannot resist describing a woman's breasts. nine out of ten times, if he introduces a female character, he will describe her breasts. its a bit ridiculous. 
+if you've read Murakami, you know exactly what I'm talking about. there are a ton of tropes that he uses, intentionally or not, that genuinely make me roll my eyes. if you've gone on r/menwriting women, it's a lot of that kind of thing. he's featured on there quite a bit. I don't know what it is, but he just cannot resist describing a woman's breasts. nine out of ten times, if he introduces a female character, he will describe her breasts. it's a bit ridiculous. 
 
 one of the worst offenders of this is the book 1Q84. I read it while I was alone in Portugal for two weeks (long story), and I remember a scene where one of the protagonists is describing her friend who had passed away. she talks about how much she misses them and describes how they died in gruesome detail. and then she says this:
 
@@ -49,7 +49,7 @@ like... come on. so unnecessary. it adds nothing to the story. if anything, it p
 
 there's also the trope of the main character being kind of a loser who has no personality whatsoever and yet every female character he meets wants to have sex with him. another weird one. he also does this thing where characters think they're in love, but they barely know the person (but maybe this is intentional. I don't know. there's really no way to tell. I remember when I read Norwegian Wood, which was my first Murakami, I rationalized all the flaws by saying they were intentional. and that's how I justified liking the book so much to myself. but it's pretty clear after reading some more Murakami that he just can't help it). anyways I could go on about all the tropes, but I think you get the idea.
 
-> **a brief aside:** I think the reason these tropes keep popping up is largely a result of Murakami's work ethic. I've heard that he'll wake up at five AM eveyr morning and write ten pages, without exceptions. this seems admirable until you realize that's only possible if he is writing down basically every thought as it comes. no planning whatsoever. I'm sure he edits after the fact, but the foundation is set. just my guess.
+> **a brief aside:** I think the reason these tropes keep popping up is largely a result of Murakami's work ethic. I've heard that he'll wake up at five AM every morning and write ten pages, without exceptions. this seems admirable until you realize that's only possible if he is writing down basically every thought as it comes. no planning whatsoever. I'm sure he edits after the fact, but the foundation is set. just my guess.
 
 ## why do I keep coming back?
 
@@ -59,7 +59,7 @@ I really enjoy the way he sets a scene. he always very meticulously describes th
 
 I also find that a lot of his books always have me feeling very emotional after I read them. maybe I'm laughing at how ridiculous some of it is or maybe I'm crying because something hit too close to home, but I'm feeling something. that's the goal with art, right? in that respect he definitely succeeds. 
 
-in the end I'm willing to appreciate Murakami's work, despite all of its flaws. honestly the flaws are almost welcome at this point. it makes it more interesting. I think it's really important to learn to appreciate things in spite of their flaws. this sounds cliche, but nothing's perfect. nobody is. and even if they were, perfection is boring. 
+in the end, I'm willing to appreciate Murakami's work, despite all of its flaws. honestly the flaws are almost welcome at this point. it makes it more interesting. I think it's really important to learn to appreciate things in spite of their flaws. this sounds cliche, but nothing's perfect. nobody is. and even if they were, perfection is boring. 
 
 I used to beat myself up a lot when I made mistakes. a lot of negative self talk. but I'm trying not to do that anymore. I'm definitely not perfect. but beating yourself up when you make a mistake only makes things worse. a mistake is an opportunity for growth. and that's a beautiful thing.
 
