@@ -1,5 +1,5 @@
 # on murakami
-the best worst author | 8/24/24 | 5 min
+the best worst author | 8/26/24 | 5 min
 
 ---
 
