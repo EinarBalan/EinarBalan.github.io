@@ -54,7 +54,7 @@ this all seems to point to the fact that humans are not inherently good and that
 
 ## how to be a good person
 
-that being said, I recognize that sometimes things get in the way and we're not able to be our best selves. here are some things that I've realized have a huge impact on my ability to be my best (some of which hopefully generalizable beyond me):
+that being said, I recognize that sometimes things get in the way and we're not able to be our best selves. here are some things that I've realized have a huge impact on my ability to be my best (some of which is hopefully generalizable beyond me):
 
 1. **DRINK WATER**. this is the one that has had the most drastic impact on me. I realized after an optometrist appointment at U See LA in Ackerman that I was severly dehydrated. after I started paying attention to how much water I drank, it was insane how much better I felt. this is not hard to do, but it's easy to overlook.
 
