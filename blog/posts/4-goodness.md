@@ -70,23 +70,26 @@ that being said, I recognize that sometimes things get in the way and we're not 
 
 7. **SLEEP CONSISTENTLY**. another obvious one. you need to rest to be your best. a bit less obvious is that you need to rest at the same times everyday. set a bedtime and stick to it. I think this is a huge part of why I was feeling so bad in Portugal.
 
+
 8. **DO WHAT YOU LOVE**. find the things that you're passionate about. for me it's teaching. music. writing. this is a huge part of being happy even when you're alone (which I know is very hard for a lot of people I have spoken to). this is not easy to do, especially with the popularity of things like TikTok, but it's essential imo.
 
 9. **LEARN TO LOVE THINGS YOU'RE BAD AT**. I love guitar. I'm not very good at it. for now. I fell in love with crosswords a year ago and I was atrocious at them. now I'm not bad at all. eventually the things you love and are bad at just become the things you love. 
 
 10. **BE SOCIAL**. this one's obvious. but its a hard one for me. sometimes I'd rather just be alone in my room. it takes less effort. but I never regret going out and I never regret putting myself out there. that being said, it's also important to be ok with being alone. it's a difficult balancing act. but it pays off.
 
-11. **TRY NEW THINGS**. most of the time when I try something new I don't like it. but that's part of the fun. at least now you never need to try that thing again. on the other hand, you might find your new favorite thing.
+11. **GO OUTSIDE**. I forgot to add this one when I first wrote this and I honestly can't believe I did because it is so essetnail. find somewhere with some nature. lay down in the grass. listen to the sounds of birds chirping and the hum of people talking and laughing in the distance. take a deep breath. sculpture garden is my spot. find yours.
 
-12. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phone out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
+12. **TRY NEW THINGS**. most of the time when I try something new I don't like it. but that's part of the fun. at least now you never need to try that thing again. on the other hand, you might find your new favorite thing.
 
-13. **DON'T BEAT YOURSELF UP**. you're going to make mistakes. what matters is how you learn from them. a bit cliche, but true.
+13. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phone out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
 
-14. **BE CREATIVE**. I'm not happy unless I'm making something. even better if its something I'm proud of. I don't know if this is something everybody feels, but I think it's worth mentioning. 
+14. **DON'T BEAT YOURSELF UP**. you're going to make mistakes. what matters is how you learn from them. a bit cliche, but true.
 
-15. **TAKE CARE OF SOMETHING**. get yourself a pet. or if you're not ready for that get yourself a plant. anything that puts you in a position of responsibility over another living thing. it's insane how effective this is.
+15. **BE CREATIVE**. I'm not happy unless I'm making something. even better if its something I'm proud of. I don't know if this is something everybody feels, but I think it's worth mentioning. 
 
-16. **DO GOOD FOR THE SAKE OF DOING GOOD**. this is one of the most important ones. don't do good things because you want something in return. just do good for the sake of it. talk to that stranger who seems lonely. smile at the guy running past you. empathize with that student who is struggling. it'll pay off.
+16. **TAKE CARE OF SOMETHING**. get yourself a pet. or if you're not ready for that get yourself a plant. anything that puts you in a position of responsibility over another living thing. it's insane how effective this is.
+
+17. **DO GOOD FOR THE SAKE OF DOING GOOD**. this is one of the most important ones. don't do good things because you want something in return. just do good for the sake of it. talk to that stranger who seems lonely. smile at the guy running past you. empathize with that student who is struggling. it'll pay off.
 
 somewhere along the way this also turned into a "how to be happy" list. although I suppose the two have a lot of overlap. if you can't tell, this is something I think about a lot. I don't claim to have all the answers, but this is what works for me.
 
