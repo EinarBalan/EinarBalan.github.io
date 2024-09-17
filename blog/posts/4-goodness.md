@@ -77,11 +77,11 @@ that being said, I recognize that sometimes things get in the way and we're not 
 
 10. **BE SOCIAL**. this one's obvious. but its a hard one for me. sometimes I'd rather just be alone in my room. it takes less effort. but I never regret going out and I never regret putting myself out there. that being said, it's also important to be ok with being alone. it's a difficult balancing act. but it pays off.
 
-11. **GO OUTSIDE**. I forgot to add this one when I first wrote this and I honestly can't believe I did because it is so essetnail. find somewhere with some nature. lay down in the grass. listen to the sounds of birds chirping and the hum of people talking and laughing in the distance. take a deep breath. sculpture garden is my spot. find yours.
+11. **GO OUTSIDE**. I forgot to add this one when I first wrote this and I honestly can't believe I did because it is so essential. find somewhere with some nature. lay down in the grass. listen to the sounds of birds chirping and the hum of people talking and laughing in the distance. take a deep breath. sculpture garden is my spot. find yours.
 
 12. **TRY NEW THINGS**. most of the time when I try something new I don't like it. but that's part of the fun. at least now you never need to try that thing again. on the other hand, you might find your new favorite thing.
 
-13. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phone out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
+13. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phonephone1 out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
 
 14. **DON'T BEAT YOURSELF UP**. you're going to make mistakes. what matters is how you learn from them. a bit cliche, but true.
 
