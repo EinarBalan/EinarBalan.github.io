@@ -42,7 +42,7 @@ whether or not the book is entirely accurate is a question I still struggle with
 
 I've also realized it's important not to let your faith in people cloud your judgement. you can't let people take advantage of you, no matter how hopeful you are that they mean well. 
 
-I remember one day I went to my favorite professor's adivising hours on Zoom. I'd never actually spoken to him one-on-one or even taken one of his classes, but I did audit his Theoretical Computer Science class and absolutely loved it. he has such a talent for communicating his passion and is overall such a ray of sunshine. I always left his classes in a better mood than when I came in. one of my inspirations for sure. 
+I remember one day I went to my favorite professor's advising hours on Zoom. I'd never actually spoken to him one-on-one or even taken one of his classes, but I did audit his Theoretical Computer Science class and absolutely loved it. he has such a talent for communicating his passion and is overall such a ray of sunshine. I always left his classes in a better mood than when I came in. one of my inspirations for sure. 
 
 anyways we ended up having quite a lengthy conversation. we covered a lot of topics including some advice for teaching, how to maintain a "sunny disposition," and an assortment of other things. most relevant here was our discussion of the Prisoner's Dilemma. I said offhand that I truly believed the world would be a better place if people were more open and trusting of strangers, rather than immediately assuming the worst of everyone. he pushed back on this though, which makes sense considering his field of work. he's the director of a cybersecurity lab at UCLA. he cautioned me against being too trusting because there are always people out there who aim to take advantage of that trust. and he's probably right. but I still believe the vast majority of people in the world have no interest in that. 
 
@@ -81,7 +81,7 @@ that being said, I recognize that sometimes things get in the way and we're not 
 
 12. **TRY NEW THINGS**. most of the time when I try something new I don't like it. but that's part of the fun. at least now you never need to try that thing again. on the other hand, you might find your new favorite thing.
 
-13. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phonephone1 out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
+13. **ALLOW YOURSELF TO BE BORED**. don't be that guy that pulls their phone out at the urinal. just let yourself be alone in your thoughts. it's not a coincidence that a lot of people's best ideas come to them in the shower. you can have that more often if you keep your phone in your pocket.
 
 14. **DON'T BEAT YOURSELF UP**. you're going to make mistakes. what matters is how you learn from them. a bit cliche, but true.
 
