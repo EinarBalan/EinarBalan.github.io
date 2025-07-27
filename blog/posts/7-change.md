@@ -1,5 +1,5 @@
 # on a roadtrip
-staring into the abyss until the abyss spits out 26 ideas 😁 | 7/26/2025 | X min
+staring into the abyss until the abyss spits out 26 ideas 😁 | 7/26/2025 | 12 min
 
  ---
 
