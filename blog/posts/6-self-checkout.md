@@ -7,7 +7,7 @@ I go grocery shopping everyday. for no reason in particular, Ralphs is my store 
 
 I also visit the self checkout line everyday. at this point, it's automatic. I don't even consider the cashier lines anymore. I'm not sure why I do this. 
 
-I suspect I'm not alone, though. particularly amongst people my age. maybe I'm just projecting my own social anxiety here, but I feel like if you surveyed a group of college students, over half of them would say they prefer self checkout over the cashier. that being said, I have not done that. [someone](https://www.statista.com/statistics/1456821/consumer-preference-for-self-checkout-or-cashier-grocery-store-us/) has, but I have to make an account to see the results and tbh I'd rather not. I'll just assume that I'm right. 
+I suspect I'm not alone, though. particularly amongst people my age. maybe I'm just projecting my own social anxiety here, but I feel like if you surveyed a group of college students, over half of them would say they prefer self checkout over the cashier. that being said, I have not done that. [someone](https://www.statista.com/statistics/1456821/consumer-preference-for-self-checkout-or-cashier-grocery-store-us/) has,` but I have to make an account to see the results and tbh I'd rather not. I'll just assume that I'm right. 
 
 > brief aside which I learned while I was proofreading this: Ralphs officially does not have a possessive apostrophe. it's named after the founder, George Ralphs, not a guy named Ralph. on the other hand Trader Joe's does have an apostrophe and *is* named after a guy named Joe. crazy. anyways grammar is dumb and I'm sure I missed a ton of other apostrophe's elsewhere
 
