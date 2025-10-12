@@ -69,7 +69,7 @@ I'm not totally against selling water in containers. I can understand that. like
 
 while we're at it we might as well abolish all single use plastics. why hasn't anyone thought of that yet...
 
-### 6. Birth certificates should include a name justication section.
+### 6. Birth certificates should include a name justification section.
 
 in other words, parents should have to explain why they chose the name they did. like if they named you after your great uncle, that should be on the birth certificate. 
 
