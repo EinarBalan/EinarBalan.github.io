@@ -31,17 +31,25 @@ fs.readdir(postsFolder, (err, files) => {
             </header>
     `;
 
-    files.reverse().forEach((file) => {
-        if (path.extname(file) === '.md') {
-            const filePath = path.join(postsFolder, file);
-            const fileContent = fs.readFileSync(filePath, 'utf8');
-            let html = converter.makeHtml(fileContent);
+    const mdFiles = files.filter((file) => path.extname(file) === '.md');
+    mdFiles.sort((a, b) => {
+        const getLeadingNumber = (name) => {
+            const match = name.match(/^(\d+)/);
+            return match ? parseInt(match[1], 10) : Number.MAX_SAFE_INTEGER;
+        };
+        return getLeadingNumber(b) - getLeadingNumber(a);
+    });
 
-            const htmlFileName = path.basename(file, path.extname(file)) + '.html';
-            const htmlFilePath = path.join(postsFolder, htmlFileName);
-            const articleName = fileContent.split('\n')[0].slice(1);
+    mdFiles.forEach((file) => {
+        const filePath = path.join(postsFolder, file);
+        const fileContent = fs.readFileSync(filePath, 'utf8');
+        let html = converter.makeHtml(fileContent);
 
-            html = `<!DOCTYPE html>
+        const htmlFileName = path.basename(file, path.extname(file)) + '.html';
+        const htmlFilePath = path.join(postsFolder, htmlFileName);
+        const articleName = fileContent.split('\n')[0].slice(1);
+
+        html = `<!DOCTYPE html>
             <html lang="en">
                 <head>
                     <meta charset="UTF-8">
@@ -57,18 +65,17 @@ fs.readdir(postsFolder, (err, files) => {
                 </body>
             </html>`;
 
-            fs.writeFileSync(htmlFilePath, html); // create html file for post
-            console.log(`Generated ${htmlFileName}`);
+        fs.writeFileSync(htmlFilePath, html); // create html file for post
+        console.log(`Generated ${htmlFileName}`);
 
-            // add link to post to blog page
-            const post = `
+        // add link to post to blog page
+        const post = `
             <div class="blog-post" onclick="window.location.href='./blog/posts/${htmlFileName}'">
                 <h2>${articleName}</h2>
                 <p>${fileContent.split('\n')[1]}</p>
             </div>`;
 
-            blog += post;
-        }
+        blog += post;
     });
 
     blog += `
