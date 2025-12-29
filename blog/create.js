@@ -3,7 +3,9 @@ const path = require('path');
 const showdown = require('showdown');
 
 const converter = new showdown.Converter();
-const postsFolder = './blog/posts'; // run from root
+const rootDir = path.resolve(__dirname, '..');
+const postsFolder = path.join(__dirname, 'posts');
+const blogHtmlPath = path.join(rootDir, 'blog.html');
 
 fs.readdir(postsFolder, (err, files) => {
     if (err) {
@@ -40,6 +42,10 @@ fs.readdir(postsFolder, (err, files) => {
         return getLeadingNumber(b) - getLeadingNumber(a);
     });
 
+    const tilFilePattern = /(^|-)til(-|$)/i;
+    const tilPosts = [];
+    const regularPosts = [];
+
     mdFiles.forEach((file) => {
         const filePath = path.join(postsFolder, file);
         const fileContent = fs.readFileSync(filePath, 'utf8');
@@ -75,14 +81,29 @@ fs.readdir(postsFolder, (err, files) => {
                 <p>${fileContent.split('\n')[1]}</p>
             </div>`;
 
-        blog += post;
+        const slug = path.basename(file, path.extname(file));
+        if (tilFilePattern.test(slug)) {
+            tilPosts.push(post);
+        } else {
+            regularPosts.push(post);
+        }
     });
+
+    blog += `
+            <details class="blog-dropdown">
+                <summary>today I learned</summary>
+                <div class="blog-dropdown-content">
+                    ${tilPosts.join('\n')}
+                </div>
+            </details>`;
+
+    blog += regularPosts.join('\n');
 
     blog += `
         </article>
     </body>
     </html>`;
-    fs.writeFileSync('./blog.html', blog);
+    fs.writeFileSync(blogHtmlPath, blog);
 
 
 
