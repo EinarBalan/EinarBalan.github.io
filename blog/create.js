@@ -43,6 +43,8 @@ fs.readdir(postsFolder, (err, files) => {
     });
 
     const tilFilePattern = /(^|-)til(-|$)/i;
+    const coversFilePattern = /(^|-)cvr(-|$)/i;
+    const coversPosts = [];
     const tilPosts = [];
     const regularPosts = [];
 
@@ -82,12 +84,23 @@ fs.readdir(postsFolder, (err, files) => {
             </div>`;
 
         const slug = path.basename(file, path.extname(file));
-        if (tilFilePattern.test(slug)) {
+        if (coversFilePattern.test(slug)) {
+            coversPosts.push(post);
+        } else if (tilFilePattern.test(slug)) {
             tilPosts.push(post);
         } else {
             regularPosts.push(post);
         }
     });
+
+    blog += `
+            <details class="blog-dropdown">
+                <summary>covers</summary>
+                <div class="blog-dropdown-content">
+                    ${coversPosts.join('\n')}
+                </div>
+            </details>
+    `;
 
     blog += `
             <details class="blog-dropdown">

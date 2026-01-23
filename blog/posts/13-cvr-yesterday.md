@@ -1,0 +1,191 @@
+# yesterday - the beatles
+all my troubles seemed so far away | 20 min
+
+---
+
+the beatles started off as a cover band. 
+
+65 years later, they are probably the best song writers to ever do it. so I think covers are a good place for me to start.
+
+for some context, one of my goals over the last few years has been to write a song that I would enjoy listening to. somehow I've been able to stay dedicated to that goal even amongst many distractions<sup>1</sup> and what has felt like very slow progress.
+
+I remember my first time recording one of my own songs listening back to it and thinking... *damn. that's what I sound like.* it was pitchy and corny and trite and other words that I would use to describe bad music. or at least music that I would not listen to. it made me anxious to pick up the mic again. it's uncomfortable knowing that something you put so much effort into isn't good enough. 
+
+I think I'm still kind of feeling that anxiety, despite the hundreds of hours I have since put into learning guitar and piano and music theory and song writing. I'm objectively a far better musician now than I was before, but I still struggle to pick up my guitar and write. 
+
+at this point, it's probably just a mental block. I mean it was always a mental block, but now even more so because I have all the tools I need to get started. yes, there's always more to learn, but you shouldn't let that get in the way of doing what you want to do.
+
+at this point, I don't care if it takes me twenty years. I *will* make something I'm proud of. unfortunately, that will probably only happen after making many, many things that are just ok. 
+
+anyways, my hope with this whole cover thing is that it will help me pin down what exactly it is I like about certain songs. if I can put it into words, then I can easily apply it to my own song writing. there's no better way to figure that out than to recreate an entire song from scratch. so here I am. 
+
+there is so much that goes into making a great song. there's the obvious bit of having a good musical idea: a nice chord progression and an interesting melody or two. there's having something interesting to say. then there's the ability to get that out of your head and recorded. you have to perform it well and you need the right gear to make it sound its best. then there's the production side: arrangements, instrumentation, layering, harmonies, automation, plug ins, EQ, compression, ... and the list goes on. on top of all that you have to mix all the parts so that they complement each other well and then you have to master. it can feel really overwhelming. 
+
+that's another reason why I'm starting with yesterday. overall, it's pretty simple as far as songs go and I think it'll make taking all of this on a little more manageable. obviously, the song writing is already done, but I'll still have to perform, produce, mix, and master. baby steps.<sup>2</sup>
+
+## song writing
+
+yesterday isn't terribly complicated, but it is slightly more involved than the average pop hit in terms of music theory.<sup>3</sup> the recording is in the key of F major, but I'll be recreating it a few steps up in Bb major because it's more comfortable for me to sing in that range.<sup>4</sup> Bb definitely feels a bit different since you don't have to tune down your guitar to play (so you don't get that same rattly jangly sound you hear in the original recording) and also the quality of your voice when you sing lower is a bit different but anyways. the goal here isn't to recreate it 1:1, I want to make it my own a little bit while also still being recognizable. anyways, yeah I'm in Bb. it's also in 4/4 at 98 bpm, although I slow it down a bit.
+
+I wrote up the entire score so that I could reference it here. I learned everything by ear with some exceptions (those being I already knew the guitar part and there were some string chords I couldn't figure out).
+
+<iframe src="../../assets/scores/Yesterday.pdf" width="100%" height="600px" style="border:none;" allowfullscreen></iframe>
+<p><a href="../../assets/scores/Yesterday.pdf" target="_blank">open score in new tab</a></p>
+
+anyways.<sup>6</sup> my arrangement is a bit different from the actual arrangement because I was just figuring out everything by ear, but it's pretty close. the main difference is that there's a viola and no bass guitar in the beatles version. 
+
+### song structure 
+
+the structure is pretty simple. there are three verses with the same chords + melody but different lyrics and instrumentation. let's go one by one and talk about each section. 
+
+I should note I'm going to assume some level of knowledge about music theory, so it might be a bit confusing if you don't have much exposure to that.
+
+#### verse 1
+
+the first section of the verse uses a slight modification of a really common chord progression.
+
+<table>
+  <tr>
+    <td>Bb</td>
+    <td>Bb</td>
+    <td>Am7</td>
+    <td>D7</td>
+    <td>Gm</td>
+    <td>Gm</td>
+    <td>Eb</td>
+    <td>F</td>
+  </tr>
+  <tr>
+    <td><b>I</b></td>
+    <td><b>I</b></td>
+    <td><b>ii/vi</b></td>
+    <td><b>V/vi</b></td>
+    <td><b>vi</b></td>
+    <td><b>vi</b></td>
+    <td><b>IV</b></td>
+    <td><b>V</b></td>
+  </tr>
+</table>
+
+you can see we have a ii V leading into the vi chord, although interestingly it's using the ii V as if it was a G major and not a Gm. we would expect to see Am7b5 instead of Am7 if we were borrowing from Gm. what's actually happening here is that for this little bit we're actually in G *melodic* minor. the ii in G melodic minor is Am7, which is what we see here. **this idea of borrowing chords from melodic minor is new to me and it's something for me to pay close attention to.**
+
+anyways, without that aside into G melodic minor our chord progression would have just been I vi IV V, which is super standard. just for the sake of completeness I'll say the IV V I in particular is very common because it builds tension and releases it in a satisfying way. same with the ii V I we saw earlier. and honestly any V I moment. 
+
+but paul spices that classic progression up a bit with the secondary dominant. this also translates into the melody (the G melodic minor bits feel more unique than if it had just been going up the Bb major scale).
+
+now moving on to the second section, which goes like this:
+
+<table>
+  <tr>
+    <td>Bb</td>
+    <td>Bb/A</td>
+    <td>Gm</td>
+    <td>C</td>
+    <td>Eb</td>
+    <td>Bb</td>
+  </tr>
+  <tr>
+    <td><b>I</b></td>
+    <td><b>I</b></td>
+    <td><b>vi</b></td>
+    <td><b>II</b></td>
+    <td><b>IV</b></td>
+    <td><b>I</b></td>
+  </tr>
+</table>
+
+the thing that really sticks out here is the major II. normally this would be minor. I think this is just one of things that the beatles do that doesn't really have a great music theory explanation and is a good reminder that music theory exists to describe what sounds good, it doesn't determine what sounds good. but yeah major II.<sup>5</sup>
+
+### verse 2
+
+in verse two we get the same melody and chords, with new lyrics and add in some strings. the cello is playing the root of each chord (or inversion). the violins/viola are a bit more interesting. over the Am7, D7, and Gm in the first section of the verse we play an Asus4, then move into Gm and finally Eb. so it's basically the guitar chords with some added colors. we can play Asus4 over D7 because the notes in D7 are the same notes as in Asus4 (e.g. A C D).
+
+verse 3 is pretty much the same (although it does add a bit of ornamentation here and there in the strings).
+
+also if you're curious that part where paul goes "yesterdaa-aaa-aaa-aayyy" and stair cases down is the reverse of the melody of the indiana jones theme song. just in case you didn't know that.
+
+### the bridge
+
+the bridge uses a lot of the same tricks as what we see in the verse. in fact, it's kind of a frankenstein combination of the first half of the verse and the second half of the verse (loosely). it takes the double secondary dominant (2 5 1) from the first half and the major II from the second half and combines both of those into one section and repeats that twice. although the melody in the first half ends low while the second half ends high to get some more energy going into the next verse.
+
+here the violin + viola plays the same chords as the guitar, and sometimes outlines the melody. cello doesn't do much. unless what I thought was bass guitar is actually just the sound of the cello strings being plucked that is a very real possibility. I should also note that the guitar deviates from the established rhythm here to harmonize the vocal melody. as paul sings, "...had to go, I don't know" we move from a Gm (vi) to an F (v), E (iv), Dm (iii, although there's no third so major/minor is ambiguous), back to a Gm. the bass guitar (or possibly cello) plays the roots in this section and never comes back.
+
+the takeaway here for me is that the bridge is very much a continuation of the same ideas presented in the verse, just mixed up enough to feel sufficiently different. what makes it feel different is the deviation from the established rhythm by the guitar and the frankenstein combination of chords from the verse.
+
+and that's pretty much it in terms of chords + melody. I probably could go in more detail about the melody and be like "oh the melody plays the major second modal interval over the Gm" but I feel like that's getting even further into the weeds than I already have and might be more effort than it's worth. on the melodic side, the biggest takeaway for me is the use of G melodic minor in combination with Bb major and just mixing scales in general using interesting chord progressions.
+
+### lyrics
+
+I'm realizing after writing this whole thing up that I should probably talk about the lyrics as well. that's important, especially considering this is probably my weakest point right now. 
+
+specifically I want to pay attention to things like rhyme schemes, subject matter, how syllables are spread across notes and how they correlate to the melody, etc. and then once I do that I'll try to write a verse of my own. 
+
+but I will leave that as an exercise for the future because right now my priority is my own music yeehaw hold me to this I will be back
+
+## production
+
+luckily, yesterday is pretty sparse in terms of production.
+
+there are a few parts to producing: planning arrangements, recording, and adding ornamentation + effects. for the arrangement side of things, I knew that I mostly wanted to stick to the foundation set by George Martin (famously the beatles producer aka "the fifth beatle" and who I think was the guy who did the strings and stuff) but also add a bit of my own touch. 
+
+I started off by recording the guitar part. I for the life of me could not play it on time cleanly so I just went at it and decided I would use the guitar as my rhythmic foundation. which I realize would not fly most of the time but anyways. that was the easy part. I played it all the way through in one take. well it took a few tries but what I mean is I didn't cut takes together or anything like that because I wanted this to sound more natural and human and imperfect given the nature of the song. 
+
+I then sang over that part. this was tough. I am not a singer. I knew that, but I especially knew that after I listend back to my first take. yikes. I hadn't turned the gain up enough on my mic so not only was I really quiet but I also was like singing quietly as well in way that made my voice sound very meek and unpleasant. maybe it would fit a certain vibe but it wasn't it for this one. after a few days and vocal exercises I figured out a recording technique that worked for me. I decided I would do 10 takes in a row without listening back to any of the takes. then I would take the 10th take without any exceptions. the reason I settled on that was because I kept having issues where I would find one imperfection in a take and trash the whole thing and I knew that I would be recording until the end of time if I continued on that way. I thought that doing 10 takes in a row would warm up my voice enough and make it so that it was a bit of a routine and that I didn't have to think as much about it. which I think works well when you're trying to perform. the effortless angle. not that I quite got there, but I definitely progressed from where I started. to finish the job I added logics version of melodyne pitch correction called flex pitch and meticulously combed over the vocal. this is where it finally got at least somewhat listenable. the entire experience was very humbling I must say. in a good way though. I also added a bunch of plugins (effects) on top of my voice like reverb, compression, EQ, D-Esser which all also helped quite a bit and made it sound slightly more professional. interestingly, by some happy accident the "quality" of the vocal sounds very vintage in a 60s beatles way although this was completely unintentional. I should probably figure out why that is at some point but for now I'll just take the win. 
+
+anyways. going into the second verse, I needed to add some strings. I don't own a cello or a violin or a viola (not that I would be able to play them if I did) so I was going to have to settle for midi strings. unfortunately, the included strings in logic sound like ass. so I went hunting for something called a sample library. if you remember those old sound board apps from back in the day it's kinda like that but like add 20,000 sounds from every possible instrument and articulation type in an orchestra. naturally, those get pretty expensive. I was not willing to spend $3000 on this, so I settled on the best free one I could find called the Berlin Free Orchestra. which doesn't really compare to real strings, but is miles above the stock logic ones at least. especially once I added some volume automation (which basically just means I made the volume of the notes change over time to sound a bit more natural).
+
+for each part, I listened to the song and figured out the notes/chords on my shitty casio keyboard and played them after transposing to Bb. there were some wrong chords here and there that I didn't notice until way later but overall I did a decent job. I think this part where I have to listen and pick out each individual part could get very tedious for a more involved song. luckily yesterday isn't too bad.
+
+I knew I wanted to mix up the 3rd verse instrumentation and add my own touch. I settled on adding clarinet and bassoon. I love the sound of a clarinet. so mellow and melancholic. bassoon too. you can't really hear the bassoon at all until the very end but when you finally do it hits. I have to say. even though I didn't do all that much, I'm proud of what I added. 
+
+oh yeah I should also mention I doubled my vocals on the bridge at some points because it sounded like George had done that for Paul's vocal in the recording I was listening to. although I took it a bit farther in the second bridge but anyways yeah that's all for production really. I will add a link to download my stems if you are interested but I can't imagine why you would be considering I have no idea what I am doing.
+
+## mixing and mastering
+
+this part is boring and if I'm being honest I have no idea what I'm doing really. for the mixing part I watched a tutorial or two and learned that I had to "carve out sound profiles" for each part so that they blend well together and don't compete for listening space. so I tried to do that more or less via EQ. this is also where I switched up the sound of my acoustic to sound a bit warmer because I always prefer a warm guitar sound over a bright one sorry to all my Taylor fans out there. I do think I made a difference with this although there is probably still much to be done that I am just ignorant of.
+
+mastering I am even less familiar with. for this, I just slapped the stock logic mastering assistant plugin on top of the master track and it was shockingly good. I tested it out with my airpods, through my laptop and phone speakers, through my soundbar, and in my car and all of them sounded pretty balanced to my ear. again, I'm sure a professional would vomit uncontrollably if they heard this but I'm trying my best.
+
+I have to admit, listening to it in the car I got a bit emotional. not because it was perfect or because it sounded particularly good and not because it sounded bad but because it was me and I made it. along with the help of sir paul mccartney of course. thanks paul.
+
+but after 2 years of work, I felt like I was finally getting somewhere. and that felt good. damn I'm gonna cry again writing this bro 
+
+## what's special about this song?
+
+what a great song. this whole exercise made me appreciate it even more than I did before. obviously I'm a bit biased because I grew up listening to it and have so much lore associated with it, but I genuinely think it's one of the best songs of all time. it's simple but that's part of what makes it so good. 
+
+I think the lesson here is to not overthink too much when I'm writing. it doesn't need to be super complicated and out there to be good. the accompaniment is also very nice and obviously the vocal performance is amazing. 
+
+on a more technical note, there is the whole melodic minor and random modal interchange w/ the major II paul has going on. there's also the whole thing where he makes the bridge feel like a mix of different ideas from the verse, while also keeping a distinct sound. but close enough that it feels like they're in the same family if that makes sense.
+
+anyways. listen to my version if you would like. check out my stems if you would like. I'm looking forward to a year from now when I can look back at this and see all the things I could have done better. more to come.
+
+<br>
+<div style="text-align: center;">
+  <audio controls>
+    <source src="../../assets/audio/covers/yesterday.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1iL9fFC7CEO6CFi-pCaec6bkLTMOB-J4G/view?usp=sharing">download stems<sup>7</sup></a>
+</div>
+
+
+-----
+
+(1) *such as grad school lolz*
+
+(2) *something you might be thinking is why is he being so dramatic about this? like if you want to do something just do it. it'll suck at first but then it'll get better. you don't need to overthink it. and I think you're 100% right I have no retort*
+
+(3) *by which I mean it doesn't just stick to diatonic I, IV, V, and vi chords. in terms of arrangement, it's probably a bit simpler than average.*
+
+(4) *I remember when I first started singing, it was impossible for me to sing yesterday without jumping around octaves. now I manage a bit better, especially when I have the song to listen to for reference, but still a bit pitchier than I would like. but it does feel good knowing my range has improved!*
+
+(5) *also, interesting note that I won't pretend to have noticed myself is that apparently paul sings the final third in just tuning (a bit flatter than 12 tone equal temperament)*
+
+(6) *I had initially uploaded it to musescore but then it got taken down for copyright whoops. that feels so silly to me. only the copyright holder can transcribe and share their transcription?? anyways I'm not making any money off of it so I don't feel bad just sharing it here directly. but it is unfortunate bc I love the musescore preview feature the instruments sound so retro and n64*
+
+(7) *yes I did leave the sound of me pressing the space bar in at the end bc I thought it sounded cool and I just thought it would be funny*
