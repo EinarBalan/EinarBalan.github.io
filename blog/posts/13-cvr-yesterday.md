@@ -120,7 +120,18 @@ I'm realizing after writing this whole thing up that I should probably talk abou
 
 specifically I want to pay attention to things like rhyme schemes, subject matter, how syllables are spread across notes and how they correlate to the melody, etc. and then once I do that I'll try to write a verse of my own. 
 
-but I will leave that as an exercise for the future because right now my priority is my own music yeehaw hold me to this I will be back
+but I will leave that as an exercise for the future because right now my priority is my own music yeehaw hold me to this I will be back.
+
+ok I'm back and tbh I don't want to analyze the rhyme scheme lolz but I did write a new verse that follows the existing structure and that I think fits pretty nicely in the song. I think for future covers I'll try to replace a section of the song or add a new section in my version e.g. for yesterday I would probably have replaced the finally verse with my verse. here it is:
+
+<pre>
+suddenly
+there’s so many things I cannot see 
+a home, a job, a life, a family
+oh, all are blind occasionally
+</pre>
+
+a little cheesy, maybe? but I like it. it's going off of this idea I've noticed in my life where I always worry about having been better in the past than I am now. or that I've peaked creatively or whatever. I'm sure a lot of people feel this. I mean it's more or less what the entire song is about. this verse that I added tries to reconcile that feeling of "being worse" with reality, reminding yourself that you have so many things to be grateful for and proud of. anyways yeah. will be adding these into the recording from now on!
 
 ## production
 
