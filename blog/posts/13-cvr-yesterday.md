@@ -1,5 +1,5 @@
 # yesterday - the beatles
-all my troubles seemed so far away | 20 min
+all my troubles seemed so far away | 1/23/2026 | 20 min
 
 ---
 

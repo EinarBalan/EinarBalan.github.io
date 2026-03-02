@@ -1,0 +1,154 @@
+# bless the telephone - labi siffre
+it's nice to hear you say hello | 2/29/2026 | 10 min
+
+---
+
+about a week ago I was procrastinating working on another song and I picked up my classical guitar and learned this one. bless the telephone. it's simple enough that I learned it in a day by ear (for the most part) and got it recorded after a few more.<sup>1</sup>
+
+I was starting to get a bit frustrated with the other cover, and this song was exactly what I needed. it's like the quintessential songwriter song. what I love about it is that it sounds like labi wrote it in about ten minutes after getting off the phone with his girlfriend.<sup>2</sup> I truly would not be surprised if that was the case. but at the same time it's so beautiful and emotional and tells a great story.
+
+the simplicity is part of the charm, but it also makes it the perfect canvas to build on top of. it's like vanilla ice cream or greek yogurt or plain pasta or something. great on its own, but really becomes something special once you start adding toppings. <sup>3</sup>
+
+I added some toppings to my version and I'm really happy with how it turned out.
+
+## song writing
+
+learning this song by ear was slightly more difficult because the spotify version seems to be slightly pitch shifted, but still not too bad. what always really helps is pulling up live performances and watching the guitar fingerings that way. I realize that's kind of cheating but still better than using tab. anyways. labi uses two interesting picking patterns to spice up the chords which I won't describe here but they are neat and worth mentioning. ok fine I will describe them the first goes: root, index, then middle and ring together, and back to root to create a kind of two part melody effect. the second is similar but adds a few alternations between the index and the middle/ring part. both sound very nice!
+
+### song structure 
+
+like I mentioned, it's super simple! a bit similar to the last song I covered, Yesterday, actually. it has two sections: a verse and a bridge. it goes verse, verse, bridge, verse. also known as AABA structure.<sup>4</sup>
+
+#### verse 
+
+the verse makes up the majority of the song. here are the chords (note that I play them a half step down compared to the original, these are also repeated twice per verse):
+
+<table>
+  <tr>
+    <td>F#</td>
+    <td>C#</td>
+    <td>D#m7</td>
+    <td>D#m7/A#</td>
+    <td>G#</td>
+    <td>G#</td>
+    <td>Badd9</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td><b>I</b></td>
+    <td><b>V</b></td>
+    <td><b>vi</b></td>
+    <td><b>vi</b></td>
+    <td><b>II</b></td>
+    <td><b>II</b></td>
+    <td><b>IV</b></td>
+    <td><b>IV</b></td>
+  </tr>
+</table>
+
+...which is bar for bar the same as a chord progression from Yesterday! well almost, in Yesterday there's no V chord. and no minor seven. but the rest is the same, down to the major II. Labi Siffre said in an interview before that if any song writer from the 70s claims to have not been influenced by the Beatles, they're lying. I believe it. I'm sure there's plenty of songs that feature something similar though. I'm also realizing that the major II is more common than I thought.
+
+#### bridge 
+
+the bridge is nice as a little break before you get back to the verse. it introduces one new chord and reuses the other two from the verse.
+
+<table>
+  <tr>
+    <td>F#</td>
+    <td>A#7b13</td>
+    <td>Badd9</td>
+    <td>B</td>
+    <td>F#</td>
+    <td>A#7b13</td>
+    <td>Badd9</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td><b>I</b></td>
+    <td><b>III</b></td>
+    <td><b>IV</b></td>
+    <td><b>IV</b></td>
+    <td><b>I</b></td>
+    <td><b>III</b></td>
+    <td><b>IV</b></td>
+    <td><b>IV</b></td>
+    </tr>
+</table>
+
+the thing that stands out most here is the dominant III with the flat 13. it definitely sounds a bit jarring as a chord and I think that's the goal for the bridge. labi wanted something that sounded super different as a palette cleanswer, but then very quickly brings you back to something familiar with the IV chord back to the I, just like in the verse. it's a small part of the song, but it serves its role well.
+
+### lyrics
+
+just like I said I would, I wrote and performed my own verse for this one. here it is:
+
+<pre>
+it's nice to see you once again
+and not just through the phone
+I'd forgotten how you glow
+and still I'll miss you when you go
+it's tough to be alone,
+at least we have the telephone
+</pre>
+
+the idea here is that, yes, talking to someone on the phone is nice, but it's so much nicer when you can finally see them in person again. for this verse, I also added in a bunch of strings and switched up the vocal chain to really drive home how different it feels to see someone in person vs on the phone. at the same time, I didn't want to take away from the spirit of the song, and I think I did a good job of that. to me, it definitely feels like it fits in well with the rest of the song stylistically. I'm happy with it!
+
+## production
+
+I'm going to try to keep this brief since I'm on a strict deadline, but I have a few notes. first of all, I recorded the guitar part on my classical guitar through my mic at the same time as my vocal. this has the advantage of making the vocal easier to adhere to the guitar part but has the disadvantage of making it more difficult to mix and process the guitar and vocal parts separately. luckily logic has a feature called the "stem splitter" which let's you split a single track into each of it's components. super super useful. though ideally I wouldn't have to do that and could instead have a separate mic on my guitar that captures that audio indepedently of my voice. or a pickup. unfortunately I don't have another mic and classical guitars don't general have pickups. I could have used the steel string, but it didn't quite have the sound I wanted. so stem were split. 
+
+I knew from the beginning that I wanted to add more of my own touch to this cover, since it lends itself so well to that. I decided I would add a string section on the last verse using what I learned from the Yesterday cover. the idea here was that it would be like that moment in a movie where the guy comes home from war and the strings swell and the couple is reunited and they love each other and all is well. that's what I was going for. it does feel a bit corny maybe but I don't think corny is necessarily bad. people love corn.
+
+I did add a bit of tuning on my vocals though not as much as I did on Yesterday. for whatever reason, I found this song much easier to sing. I did do the same strategy of doing many, many takes although this time I used logic's vocal comping feature to cover up any problematic areas. I was hesitant to use it before because I assumed it would stick out like a sore thumb, but I didn't realize how effective a simple crossfade could be. 
+
+I also added a cute lil voice memo at the end from my girlfriend. I thought it was a nice touch.<sup>5</sup>
+
+ok maybe this wasn't so brief after all. 
+
+## mixing and mastering
+
+I love a gimmick in a song. they're so fun. my gimmick here was that the first three sections sound a bit like you're listening to the song through the phone. the goal was it would be subtle enough that you wouldn't be able to really notice it until the final section when I take that effect off and you hear how it sounds "in real life." not sure how successful that was but that's the idea. I think the difference is a lot more clear with headphones on. 
+
+I also really wanted the song to swell hard at the end during the reunion bit and I think I was successful in that. 
+
+besides that I threw on the trusty mastering assistant and was off. I probably could have done a better job mixing the strings but ah well. I just didn't want them to overpower the vocal and the guitar and that was my main priority. but it does make it kind of hard to hear the cello part. ah well. 
+
+
+## what's special about this song?
+
+it's so simple but somehow manages to feel like a complete song. it doesn't need all the bells and whistles that you see in some productions. it just works. that's something to learn from!
+
+I'm also realizing that I think I prefer the AABA song structure to the typical intro verse verse chorus blah blah blah etc. pop structure. it feels a bit more elegant idk. anyways give it a listen if you want or not.
+
+something I do want to briefly note is that I've been feeling a lot more self doubt in my creative pursuits lately than normal. something about making music just feels a lot more vulnerable. maybe because it's not something that comes as naturally to me. I also think people are inherently just more critical of music for whatever reason. like for example I don't know if this is a common thing or just something that happens around some of the people I hang around, but it feels like so often when I show someone a song for the first time they just nod and smile and are like... "wow" and very clearly underwhelmed and will never listen to that song again. and like I get it. I've done the same thing before. although I do try my best to be as open minded as possible. anyways yeah people love to criticize music, especially when it doesn't sound like something they've heard before. perhaps subconsciously that's why I'm a little more guarded and simulataneously why I'm feeling the doubts creep in every now and then.
+
+but everytime I finish a cover and I give it a listen all of that fades away and I feel so happy. that's the feeling I'm chasing with this whole pursuit. 
+
+it's a great feeling.<sup>6</sup>
+
+<br>
+<div style="text-align: center;">
+  <audio controls>
+    <source src="../../assets/audio/covers/bless the telephone.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/17PWeTeHlVAfFDkhFcbNFdVDWYFOTaazY/view?usp=sharing">download stems</a>
+</div>
+
+
+-----
+
+(1) *which was a really quick turn around for me. granted there only two sections and a total of like 7 chords or something like that lolz but still*
+
+(2) *just [looked it up](https://www.tiktok.com/@labisiffremusic/video/7564442668680416534?is_from_webapp=1&sender_device=pc) and yes that is exactly what happened LOL*
+
+(3) *[here](https://www.youtube.com/watch?v=ekarH5N1srU)'s a version with a VERY different vibe but kinda cool*
+
+(4) *yesterday starts off the same way but then repeats a few more times for a AABABA structure*
+
+(5) *I really like that the last note of the song on the guitar plays at the same time as she says "stars" bc it sounds vaguely twinkly and star like and yes I know it's corny that's what I like about it although I must admit that it was mostly a coincidence*
+
+(6) *yes I did cry again what are u gonna do about it*
