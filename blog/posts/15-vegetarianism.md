@@ -7,16 +7,6 @@ last month, I was catching up with some friends over dinner at a French restaura
 
 I mostly stuck to the fries and mac n cheese while we gave our life updates and discussed our hot takes,<sup>1</sup> until someone passed me the snail plate. 
 
-<br>
-
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <img src="../../assets/escargot.JPG" alt="Plate of escargot at a restaurant" style="max-width: 65%; border-radius: 10px; margin-bottom: 16px;">
-  <em>the snail plate in question.</em>
-
-</div>
-
-I politely declined, but was instantly egged on. 
-
 > *"here, try some"*
 
 > *"oh no, it's ok I'm still working on my mac n cheese"*
@@ -31,6 +21,13 @@ I politely declined, but was instantly egged on.
 
 > *"oh come on, just try it! don't be a baby..."*
 
+<br>
+
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="../../assets/escargot.JPG" alt="Plate of escargot at a restaurant" style="max-width: 65%; border-radius: 10px; margin-bottom: 16px;">
+  <em>the snail plate in question.</em>
+
+</div>
 
 ## how did we get here
 
