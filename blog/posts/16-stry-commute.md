@@ -17,6 +17,6 @@ I didn't know what to say. I thought about telling him about dino, but decided o
 
 I've been driving for 22 minutes. I'm almost home when a car swerves ahead and cuts me off. I don't see the driver. I wonder to myself how his day was and if he'd like to hear about mine.
 
-I think what I like most about Rocket is how deceptively simple it is. you wouldn't know it, but under the hood there's actually a lot going on. it's really easy to lose yourself trying to uncover it all. 
+I think what I like most about Rocket is how deceptively simple it is. you wouldn't know it, but under the hood there's actually a lot going on. it's really easy to lose yourself trying to uncover it all. and not everyone realizes this, but it is important. it's important to me. without it, my coworkers wouldn't be able to tell me about their weekends, or the weather, or how much they hate their commute, and my boss wouldn't be able to tell me about his vacation to Mykonos. it's important.
 
 I've been driving for 22 minutes. there's a small, green bug wandering around on the wheel. I do my best to not get in his way, because I would hate to be rude, and he seems to be in the middle of something. I wonder to myself how his day was and if he'd like to hear about mine. 
