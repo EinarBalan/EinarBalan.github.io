@@ -173,8 +173,8 @@ anyways. listen to my version if you would like. check out my stems if you would
 
 <br>
 <div style="text-align: center;">
-  <audio controls>
-    <source src="../../assets/audio/covers/yesterday.mp3" type="audio/mpeg">
+  <audio controls preload="metadata" style="width: 100%; max-width: 640px;">
+    <source src="https://pub-d76f79c6ddab43228cc887b18857b82b.r2.dev/yesterday.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>

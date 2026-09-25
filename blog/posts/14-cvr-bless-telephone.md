@@ -127,8 +127,8 @@ it's a great feeling.<sup>6</sup>
 
 <br>
 <div style="text-align: center;">
-  <audio controls>
-    <source src="../../assets/audio/covers/bless the telephone.mp3" type="audio/mpeg">
+  <audio controls preload="metadata" style="width: 100%; max-width: 640px;">
+    <source src="https://pub-d76f79c6ddab43228cc887b18857b82b.r2.dev/bless%20the%20telephone.mp3" type="audio/mpeg">
     Your browser does not support the audio element.
   </audio>
 </div>
