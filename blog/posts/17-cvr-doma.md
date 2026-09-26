@@ -21,7 +21,7 @@ she's also basically the reason I got into music and am doing any of this now, s
 <br>
 <div style="display: flex; flex-direction: column; align-items: center; gap: 0.5em; text-align: center;">
 <iframe style="width: 100%; max-width: 560px; aspect-ratio: 16 / 9; height: auto;" src="https://www.youtube.com/embed/Y98K-K2gHFk?si=aZytiQuMkTKi4QTy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<i>my mom's version</i>
+<i>my mom's version, using the same guitar I used to record mine</i>
 </div>
 <br>
 
@@ -47,10 +47,6 @@ anyways this is all to say please enjoy the song and I will try to get the next 
 
 -----
 
-## music theory  breakdown
-
-
------
 
 (1) *well maybe not entirely. I don't want to be too quick to assign blame, some of that is probably just due to my own inability to focus on any one thing for too long. I've been bouncing around from project to project which honestly I'm not too upset about but perhaps worth mentioning*
 
