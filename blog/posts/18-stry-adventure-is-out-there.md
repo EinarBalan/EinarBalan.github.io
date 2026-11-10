@@ -1,0 +1,136 @@
+# adventure is out there! 
+2680 words | 5/23/24
+
+----
+
+*the following is an unfinished short story I started writing in my senior year of college that I just reread again for the first time in 2 years. I don't plan on finishing it at this point bc its a bit of a mess and very cliche but stylistically there's something abt it that I really like so I am putting it here to make sure I don't forget it exists and bc I have no shame*<sup>1</sup> 
+
+---
+
+**I.**
+
+*letters flying off the page while a boy reads robinson crusoe for the fourth time*
+
+The room was white. It had speckled white walls, a shaggy white carpet, and a wooden white bed frame topped with a feathered white mattress. There were no windows, and the only adornment to be found was a white poster on the ceiling above the bed with a picture of a tooth giving a thumbs up reading, *FLOSS LIKE A BOSS*. He lay under the covers, flashlight and book in hand, completely hidden from the barren, white world around him. The book, Robinson Crusoe, was one of his favorites although he certainly could not recount even a high level synopsis of it. Instead, he jumped from word to word, occasionally skipping over one or two, adjusting his flashlight when necessary, and taking great pleasure whenever there appeared a word he did know or, better yet, a sequence of words! Crusoe had been described to him by his father as too grown up, and thus he was resolute in his mission to conquer it.
+
+He was aged seven, though if you had asked him he would quite proudly announce that he was nearly eight. Charlie was his name. From an early age, Charlie’s mother—against the wishes of his father—spoke to him as an adult, an equal. 
+
+"Come on, he's a baby! Talk to him like a baby!" his father would protest.
+
+"He's a person, so I'll talk to him like a person." 
+
+This back and forth had been repeated numerous times by the time Charlie turned one, until his father finally decided it was hopeless and conceded defeat. 
+It should be noted that his mother was, by all other measures, quite tender and warm. She had softened eyes underscored by decades of smiling and beautiful, brown hair that she preferred to keep tied up. In their shared family dental practice, she was the clear favorite amongst the kids who visited. Nonetheless, under her watch, there were no *dada*’s and there were no *mama*’s and there were certainly not any *goo*’s or *gah*’s. Charlie’s father, of course, tried to sneak in the pampering and the kisses one would expect an infant to crave. On many nights, after he could be absolutely certain that Charlie’s mother was asleep, he would sneak into Charlie’s room, take him into his arms, bounce him, and lovingly whisper gibberish into his ear. Even still, much to his father’s dismay, the boy’s first word was “mother.”
+
+On this particular August night, Charlie had been up far later than his parents would have approved of and was deeply engrossed in his fourth reading of Crusoe. He approached each word methodically, making a mental note of which he remembered from previous readings and which had escaped him, whispering these aloud to himself. Twenty pages in, he had accumulated only twenty-one words—a personal best. 
+
+After finishing his repetitions of the twenty-first word, gale, Charlie redirected his attention to the page and noticed something very peculiar: the printed letters seemed to be wiggling in place! He rubbed his eyes and turned his flashlight off and on again. Surely it was just a trick of the light! But even as the light came back on, the words continued wiggling, and even intensified. They wiggled and wriggled and twitched and writhed until the writhing, twitching, wriggling and wiggling became so vigorous that the words simply flew off the page and into the air surrounding him. 
+
+They floated there for a moment, confused, appearing just as bewildered at their existence as Charlie was, until at once they remembered their purpose. Each of them began to split into their constituents, which flew longingly around under the blanket: Vs and Us snuggling into the nooks atop Ws, Ls interlocking with Ts, and Ks tenderly embracing Ys and Zs. Charlie, mouth agape, watched as letter conglomerates merged, forming the beginnings of small wooden cubes, which came together to form planks, which in turn rearranged themselves into a floor beneath his feet and a wheel at his fingertips. The air grew fresher and he felt a cool breeze across his face, while seagulls called in the distance and the wood at his feet creaked in protest of the humidity. The smell of the ocean was unmistakable.
+
+He looked around the ship, keenly aware of the leather tricorn that had materialized atop his head, and took a deep breath of the refreshing maritime air. Everything seemed to be in order: the navigator standing at the bow, telescope raised to his eye and compass in hand, the helmsman at Charlie's side tapping his foot impatiently, and the ship's hands working away at their various odd jobs, scrubbing grime from the deck, replacing worn rope, maintaining the cannons, and organizing supplies. 
+
+It was a beautiful, sunny day with cumulus clouds sailing along the sky, the mirror image of the ship. The sailors, even those with particularly grueling jobs, seemed cheerful to match. One such man, who Charlie spotted from across the ship, had such a glow about him that Charlie could not help but approach. He motioned for the helmsman to take the wheel, and hobbled over to him.
+"Ahoy there!" said Charlie, now just steps away from the young, cheerful sailor.
+
+The man—an awkward, skinny looking fellow wearing a striped shirt and a red bandana tied around his neck—seemed not to notice his captain's calls, so intent he was on scrubbing the deck. A huge grin lit his face, and he muttered unintelligibly under his breath. An observant eye would notice the man's foot tapping twice for each scrub, in perfect rhythm. 
+
+Charlie cleared his throat. "Ahoy there!" he repeated, clapping his right hand on the sailor's  shoulder.
+With a start, the man came to his senses, stopped tapping his heel, and looked up at Charlie. "Ahoy Cap'n! Don't mind me! Just scrubbing away 'ere. Don't mind me, sorry Cap'n," the man replied nervously, whilst simultaneously increasing the intensity with which he scrubbed the deck.
+Charlie looked at him for a moment, deciding what he wanted to say. He smiled reassuringly. "Calm down, man! And stop your scrubbing. I want to talk to you."
+
+The man scrambled to his feet, dropping his scrubber in the process, knelt down to pick it up, slipped and fell, and scrambled to his feet again, leaving the scrubber on the deck. "Sure, Cap'n! What is it, Cap'n?"
+
+"Well, I couldn't help but notice you from across the way there. Positively beaming ear to ear! Never in all my years have I seen a man as happy as you whilst on his knees scrubbing the deck, and I had to know what was going through your head at that moment.... fond memories of home? A loved one perhaps?" He paused and raised an eyebrow. "Tell me!"
+
+The man seemed hesitant, unsure of what to say. 
+Growing impatient, Captain Charlie offered further encouragement, "Come on, man! Let's hear it!"
+
+At this, the sunny sailor's eyes lit up and he burst into song.
+
+>*How and why and when and where*
+
+>*Must I leave the ocean air*
+
+>*Away o'er this land I go*
+
+>*In search of purpose, dreams in tow*
+
+> .
+
+>*A simple scrub or two or three*
+
+>*Brings me closer to my plea*
+
+>*Against the current I shall swim*
+
+>*When shall we be off again?*
+
+What the man lacked in lyrical talent, he made up for in infectious enthusiasm. He started to tap his feet and flail his arms, prancing back and forth along the deck. The crew took notice and joined in: the helmsman abandoned the wheel and ran to the scrubber's side, the ship's hands formed two rows behind him and tossed supplies—apples, bags of gunpowder, and miscellaneous wooden boxes—back and forth in perfect synchronization, and the arms maintenance crew fired their cannons to the beat. Even the seagulls joined in, flying circles overhead and calling out in appreciation. The scrubber continued.
+
+>*Trees or gold or friends of old*
+
+>*A woman, lost, passion cold*
+
+>*To find myself in this world*
+
+>*Will take conviction, woes unfurled*
+
+> .
+
+>*How and why and when and where*
+
+>*Must I leave the ocean air*
+
+>*Away o'er this land I go*
+
+>*In search of purpose, dreams in tow*
+
+One of the seagulls broke from the choreography overhead and landed directly in front of Charlie. It stared at him awkwardly for a few moments before abruptly calling out, "Charlie!"
+	
+Charlie was, of course, unaccustomed to seagulls who could speak, but could tell it meant no harm. He took a step towards it and the seagull called his name again. 
+
+"Charlie!" With each step it yelled, "Charlie! Charlie! Charlie!"
+
+He approached, but didn’t seem to make any progress, and as the world faded around him and his tricorn disintegrated, he felt an intense sense of longing.
+	
+ 
+**II.**
+
+*a boys mother cleans his teeth and talks to herself while he fantasizes about the world*
+
+Neither of Charlie's parents was particularly happy in their relationship. Luckily for them, and as all couples eventually find out, it is contentment—not happiness—that keeps a marriage afloat. They had met during the senior year of their undergraduate studies at a respectable, though not elitist, university where they bonded over their shared obsession with dental hygiene and fear of dying alone, both having been warned by their families that finding a partner would become significantly more taxing after college. This is not to say that they settled for less having found each other, or that they didn’t get along. In fact, they were quite the match.
+
+On their own, each was fairly polite and reserved, preferring to take the charted path. Charlie's father, Julian, spent most of his time inside reading, calling his mother in forty minute intervals, and fiddling around useless corners of the internet.  He didn't have many friends, but it didn't particularly seem to bother him. Grace was marginally more social, having her own close-knit group, but she found herself tiring of the usual topics they bonded over. More and more as time went on, she would turn down invitations to outings in favor of a cozy night in bed. 
+
+Together, they were something else entirely: confident, mischievous, and longing for adventure. Both had gotten the impression upon meeting the other that they were not worthy, and thus took it upon themselves through a series of competing and increasingly ridiculous gestures to prove otherwise.
+
+There was the time not long after they first met when Julian was dropping Grace off at her eleventh floor apartment. They were having an uncomfortably detailed conversation about their morning routines, which had somehow devolved into a debate of the efficacy of water flossers. As they got into the elevator, joining a group of three others, Julian dragged his palm across all the buttons, each of them lighting up a hazy, orange color, and continued their conversation as if nothing had happened. Grace stared at him, incredulous, and Julian stared back, challenging her to say something whilst simultaneously rattling off another statistic about floss and pressing one last button he had missed—floor twenty-four—for good measure. 
+
+A few days later, they were having a late lunch at Big Shack, their fast food establishment of choice. Big Shack was the value option in town, perfect for those with mountains of student debt. It was the kind of place where one felt embarrassed to say the names on the menu out loud. Grace had ordered a BIG PAPA'S HEALTH WRAP SUPREME—a piece of grilled chicken, American cheese, lettuce, tomato, and mayonnaise wrapped in a tortilla—while Julian settled for LIL LENNY'S POW WOW—a Greek salad with fried chicken topping it. Grace was wearing an olive cardigan over a white shirt and jeans, and Julian was wearing gray cotton shorts and a tight black shirt with Grace's sunglasses hanging at the neck.
+
+"Do you think they name them like that on purpose?" asked Grace, unwrapping her health wrap.
+
+"What do you mean?" replied Julian.
+
+"Like BIG PAPA'S HEALTH WRAP SUPREME. They could have just called it a chicken wrap and been done with it, but they chose to make it as excruciatingly painful to say as possible. There has to be a reason, right? This is a multinational billion dollar company with hundreds of people working on strategy. There's no way they did this on a whim."
+
+Julian was starting on his salad, and picked up a piece of fried chicken with his plastic fork. "Hmm, I don't know. I think you might be giving Big Shack more credit than they deserve. What would they gain from it? I think they just genuinely like the names."
+
+"No, no, no, no, no. Think about it, " Grace said, knowing she was onto something. "The whole goal of any megacorporation like Big Shack is to extract as much money as possible from their customers, right? And at this point they've been at it, what, 50 years? They've got it down to a science. I bet there's something about human nature that draws us to the ridiculous names. They're more eye-catching for sure. I dread saying them but it almost gives me a bit of a rush at the same time. Subconsciously, maybe that's why I keep coming back. For the rush."
+Julian paused and considered her suspicions more closely. "Okay, actually, maybe you have a point about the megacorporation mission, and I also agree that *you* probably do it for the rush. But you're not a normal person. Big Shack isn't thinking about you, although I guess it does still have the desired effect. But no, for a *normal person*, they don't like saying LIL LENNY's POW WOW out loud." He paused again, lowering his voice. "I think, and try to entertain me here, they call them that because they *don't* want you to order it. Take a closer look at the prices on the menu. Not everything is named like that. What do all those things have in common?"
+
+Grace slammed the table with her hand and yelled, "THEY'RE MORE EXPENSIVE!"
+
+"They're more expensive," Julian confirmed. "I bet we could draw a graph plotting the Big Shack prices against the degree of ridiculousness of the name—which we would have to determine objectively through a survey, of course—and it would look like a straight line sloping upwards. It would be perfect."
+
+Grace, feeling they were on the cusp of something big, shot out of her stool. She pulled out a notebook, and began walking to each of the nine other people in the restaurant, asking how ridiculous they felt the name of the thing they had ordered had been, and its price. She even approached the employees, asking about a random assortment of menu items. After she felt she had collected enough data, she came back to her seat and began drawing the graph: it was exactly as Julian had described! 
+"We need to reach out to the press. They need to hear about this. THIS IS HUGE, JULIAN." She laughed, and smiled at Julian, relieved to be vindicated in her suspicions, and he leaned in and kissed her. Their conversation started to die down, but the air of achievement remained as they left Big Shack.
+
+This was a fairly standard interaction between them early on in their relationship. It was only a couple more months before Julian proposed. They had been lounging in a park on campus at the time, Grace paging through her marked up, dog-eared copy of Treasure Island and Julian pretending to read Moby Dick. Graduation was only a few weeks away, a fact which they collectively chose to ignore due to the terror it evoked. One might have expected Julian to perform some grand gesture for his proposal given how earlier events in their relationship had played out—perhaps a performance of a song declaring his love or after a monologue on a beach at sunset with fireworks going off in the background—but instead he simply put down his copy of Moby Dick, leaned over next to Grace, cupped his hand to her ear and whispered, "We should get married."
+
+*not to be continued...*
+
+---
+
+(1) *and also to bait my girlfriend into tearing it apart bc I asked her to give me feedback on my other story like 3 months ago now and she still hasn't done it despite saying she will come on ORI where is my frickin feedback we had a deal i signed a contract does that mean nothing to you*
