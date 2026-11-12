@@ -288,7 +288,7 @@ we try to stay friends. we hang out every now and then. but I can't hold my ange
 
 two years later, I see that him and Oliver have posted a Valentine's Day photo together. when I see it my stomach drops. I feel physically ill. 
 
-and then I tell myself that it's probably just joke. that Andrew loves me. and he would never do anything to hurt me. 
+and then I tell myself that it's probably just a joke. that Andrew loves me. and he would never do anything to hurt me. 
 
 and I feel better.
 
