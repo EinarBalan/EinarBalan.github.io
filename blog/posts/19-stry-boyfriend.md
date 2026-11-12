@@ -91,7 +91,7 @@ seemingly out of the blue a few weeks later, he texts me at around 10 pm.
 
 I was in the habit of going to bed pretty early, so I was already on my way out by this point, but I felt like he wouldn't have texted me if it wasn't important. so I called him.
 
-for the sake of his privacy I'll leave out what he told me, but he was going through something really serious. he had just gotten off a plane to new york for an impromputu trip, where he knew nobody and had booked no hotel and he told me he just needed someone to talk to. so I listened.
+for the sake of his privacy I'll leave out what he told me, but he was going through something really serious. he had just gotten off a plane to new york for an impromptu trip, where he knew nobody and had booked no hotel and he told me he just needed someone to talk to. so I listened.
 
 the next night he called me again. and again I listened. and again the night after. and every night for the rest of his trip. 
 
@@ -103,11 +103,11 @@ I felt myself adopting his mannerisms. his laugh. the way he texted. his turns o
 
 <p align="center">* * *</p>
 
-a few months past and freshman year ended. the next year rolled around and finally we were allowed to be on campus. we made plans to meet in person for the first time. I didn't want it to feel like a big deal, but secretly I was really nervous. what if it wasn't the same?
+a few months passed and freshman year ended. the next year rolled around and finally we were allowed to be on campus. we made plans to meet in person for the first time. I didn't want it to feel like a big deal, but secretly I was really nervous. what if it wasn't the same?
 
 the first thing I noticed about him was that he smelled really bad. not like unclean, but a very distinct, sickly, sweet smell. kinda like when you leave an apple in the garbage for too long. I mean that in the nicest way possible. I did my best to look past it. besides that, we pretty much just picked things up exactly how we left them on our last call. I did mention to him that it felt a bit surreal to be meeting him in person, but he didn't seem to hear me. or if he did he pretended he didn't and changed the subject.
 
-he invited me to stay with him at his apartment my first night because the dorms weren't open yet. I started off on an inflatable mattress, and he was on his bed. after talking for a few hours, it became clear that neither of was interested in going to bed. he joined me on the mattress. that was when I stopped talking. 
+he invited me to stay with him at his apartment my first night because the dorms weren't open yet. I started off on an inflatable mattress, and he was on his bed. after talking for a few hours, it became clear that neither of us was interested in going to bed. he joined me on the mattress. that was when I stopped talking. 
 
 nothing happened that night. he didn't make a move and I didn't make a move and we both fell asleep on the mattress, a few inches apart.
 
@@ -159,7 +159,7 @@ and we didn't talk again for the rest of the night.
 
 <p align="center">* * *</p>
 
-I began seeing less of Andrew after that. and I definitely never saw Oliver unless I ran into him somewhere. everytime I said hi he would squint at me as if unsure of who I was, take a few seconds, and then say "oh hey tina." and then walk away.
+I began seeing less of Andrew after that. and I definitely never saw Oliver unless I ran into him somewhere. every time I said hi he would squint at me as if unsure of who I was, take a few seconds, and then say "oh hey tina." and then walk away.
 
 when I would see Andrew he seemed happier. at the very least, he had stopped complaining about how miserable he was. but I couldn't help but feel a note of disinterest. like I had outlived my usefulness. I told myself it was temporary and that things would get better. eventually he started doing things that I couldn't look past anymore.
 
@@ -213,7 +213,7 @@ he said he hoped I could be better, too. and we went to bed as if nothing had ha
 
 <p align="center">* * *</p>
 
-I couldn't move past it though. everytime I looked at Andrew, I saw the note. I heard the poem in my head. I told myself it was nothing and that I needed to move on if I ever wanted things to go back to normal.
+I couldn't move past it though. every time I looked at Andrew, I saw the note. I heard the poem in my head. I told myself it was nothing and that I needed to move on if I ever wanted things to go back to normal.
 
 for a few months, I never brought up my concerns. believe me, there were many. but I couldn't let myself be that person again. I convinced myself I was crazy and paranoid and that letting Andrew know about my worries would push him away.
 
