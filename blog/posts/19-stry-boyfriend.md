@@ -63,7 +63,7 @@ we reassured him and told him we hoped he felt better soon.
 
 > *I think I should actually get off I feel like I'm bringing everyone down. I'll see you later.*
 
-and he left. we carried on for another few minutes, but at this point there was no recovering. the rest of us dropped not long after.
+and he left. we carried on for another few minutes, but there was no recovering. the rest of us dropped not long after.
 
 at this point let me be clear that I had no romantic interest in him. because I'm tired of people telling me I'm not allowed to reach out to someone as a friend. he needed someone. so I texted. that's all it was.
 
@@ -105,15 +105,15 @@ I felt myself adopting his mannerisms. his laugh. the way he texted. his turns o
 
 a few months passed and freshman year ended. the next year rolled around and finally we were allowed to be on campus. we made plans to meet in person for the first time. I didn't want it to feel like a big deal, but secretly I was really nervous. what if it wasn't the same?
 
-the first thing I noticed about him was that he smelled really bad. not like unclean, but a very distinct, sickly, sweet smell. kinda like when you leave an apple in the garbage for too long. I mean that in the nicest way possible. I did my best to look past it. besides that, we pretty much just picked things up exactly how we left them on our last call. I did mention to him that it felt a bit surreal to be meeting him in person, but he didn't seem to hear me. or if he did he pretended he didn't and changed the subject.
+the first thing I noticed about him was that he smelled really bad. not like unclean, but a very distinct, sickly, sweet smell. kinda like when you leave an apple core in the garbage for too long. I mean that in the nicest way possible. I did my best to look past it. besides that, we pretty much just picked things up exactly how we left them on our last call. I did mention to him that it felt a bit surreal to be meeting him in person, but he didn't seem to hear me. or if he did, he pretended he didn't and changed the subject.
 
-he invited me to stay with him at his apartment my first night because the dorms weren't open yet. I started off on an inflatable mattress, and he was on his bed. after talking for a few hours, it became clear that neither of us was interested in going to bed. he joined me on the mattress. that was when I stopped talking. 
+he invited me to stay with him at his apartment my first night because the dorms weren't open yet. I was on an inflatable mattress, and he was on his bed. after talking for a few hours, it became clear that neither of us was interested in going to bed. he joined me on the mattress. that was when I stopped talking. 
 
 nothing happened that night. he didn't make a move and I didn't make a move and we both fell asleep on the mattress, a few inches apart.
 
 <p align="center">* * *</p>
 
-it wasn't long before we made it official. I'm embarrassed to say that I initiated. I told him I was having feelings and that I was scared of ruining our friendship but that I had to tell him. texted him actually. I'll spare you the details, mostly because I hate thinking about how I acted, but I'll say that he was very gracious and calm. and that he was on the same page.
+it wasn't long before we made it official. I'm embarrassed to say that I initiated. I told him I was having feelings and that I was scared of ruining our friendship but that I had to tell him. I texted him actually. I'll spare you the details, mostly because I hate thinking about how I acted, but I'll say that he was very gracious and calm. and that he was on the same page.
 
 things didn't change much. we treated each other mostly the same. we spent most days apart, but would text intermittently. some nights I would walk down to his neighborhood to see him and we would make dinner. neither of us really knew how to cook, so this usually meant microwaving a frozen meal from Trader Joe's or putting some chicken nuggets in the oven. to this day whenever I walk past his apartment on Seafine I can't help but remember those first few weeks on campus. he hasn't lived there in years, but it still always comes to mind. things were good.
 
@@ -125,13 +125,13 @@ I listened when he was feeling down. I offered encouragement. I snuck him into t
 
 things changed when he met Oliver.
 
-Oliver was also in our teaching club, just on a different team. generally, there wasn't much interteam interaction. they ran into each other on the way to one of our meetings, and instantly hit it off.
+Oliver was also in our teaching club, just on a different team. generally, there wasn't much interteam interaction. they had ran into each other on the way to one of our meetings, and instantly hit it off.
 
 Andrew told me that he'd never met someone he shared so much in common with before. that talking to Oliver was just easy. the words came naturally. he didn't have to try to think of a million questions to keep the conversation going. it just went. 
 
 as they started hanging out more, Andrew became visibly happier. he would tell me about their nights out with their other friends, and how much fun he was having. we didn't get to spend as many nights together as before, but honestly it was fine with me because he always seemed to be in a better mood when we were together.
 
-from everything I heard, Oliver seemed like a really fun person. I really wanted to meet him. so I asked Andrew to invite him over for dinner one night. and he did.
+from everything I heard, Oliver seemed like a really fun person. I really wanted to meet him. so I asked Andrew to invite him over for dinner one night. 
 
 I opened the door on his fourth knock and Oliver had a huge smile on his face. it quickly faded as he saw me, and he began to squint instead. he was wearing a red knit sweater that had thin, white zigzags on it, oversized jeans, some loafers, and a nice cologne.
 
@@ -159,7 +159,7 @@ and we didn't talk again for the rest of the night.
 
 <p align="center">* * *</p>
 
-I began seeing less of Andrew after that. and I definitely never saw Oliver unless I ran into him somewhere. every time I said hi he would squint at me as if unsure of who I was, take a few seconds, and then say "oh hey tina." and then walk away.
+I began seeing less of Andrew after that. and I definitely never saw Oliver unless I ran into him somewhere. every time I said hi he would squint at me as if he was unsure of who I was, take a few seconds, and then say "oh hey tina," and then walk away.
 
 when I would see Andrew he seemed happier. at the very least, he had stopped complaining about how miserable he was. but I couldn't help but feel a note of disinterest. like I had outlived my usefulness. I told myself it was temporary and that things would get better. eventually he started doing things that I couldn't look past anymore.
 
@@ -175,7 +175,7 @@ at first I thought he was kidding. I was being excluded from the inclusion club,
 
 <p align="center">* * *</p>
 
-then there was friendsgiving. Andrew invited me through our teaching club group chat (not personally). which is fine. I didn't really care. I mean it was a little weird considering we were dating, but I brushed it off. I figured if I started bringing up every little concern to Andrew, he would start getting annoyed. and he would stop wanting to be with me. I didn't want to let that happen. 
+then there was friendsgiving. Andrew invited me through our teaching club group chat — not personally. which was fine. I didn't really care. I mean it was a little weird considering we were dating, but I brushed it off. I figured if I started bringing up every little concern to him, he would start getting annoyed. and he would stop wanting to be with me. I didn't want to let that happen. 
 
 no, I was the cool girlfriend. I was secure, and confident in myself, and I loved Andrew and I knew that everything was going to be ok. and I looked past the things that worried me.
 
@@ -197,7 +197,9 @@ then there was the note.
 
 I was staying the night at Andrew's. he was brushing his teeth and I was laying in bed. I looked over and on the dresser was a note with a polaroid attached to it. under it, a poem written in handwriting I didn't recognize. I wish I could remember the whole thing because it was quite horrible and embarrassing and I would love to air it out here but what stuck out to me most was a bit along the lines of "boyfriends holding each other in the grass."
 
-looking up at the photo, it was of Andrew and Oliver. in the grass. huge smiles. very close to each other. Andrew came out of the bathroom as I was reading the poem, trying to make sense of it. trying my absolute hardest to rationalize it away. *boyfriends* holding each other... what else could that mean? am I a fucking moron? why have I been putting up with this shit for so long. and I lost it. I screamed at Andrew. I told him to explain what the fuck was going on. I couldn't stop myself. I'd been holding myself back for so long and finally it all had to go somewhere.
+looking up at the photo, it was of Andrew and Oliver. in the grass. huge smiles. very close to each other. Andrew came out of the bathroom as I was reading the poem, trying to make sense of it. trying my absolute hardest to rationalize it away. *boyfriends* holding each other... what else could that mean? am I a fucking moron? why have I been putting up with this shit for so long? 
+
+and I lost it. I screamed at Andrew. I told him to explain what the fuck was going on. I couldn't stop myself. I'd been holding myself back for so long and I just couldn't anymore.
 
 Andrew was horrified. he almost seemed hurt. he asked me what I was accusing him of. and I said the only thing that came to mind.
 
@@ -217,13 +219,15 @@ I couldn't move past it though. every time I looked at Andrew, I saw the note. I
 
 for a few months, I never brought up my concerns. believe me, there were many. but I couldn't let myself be that person again. I convinced myself I was crazy and paranoid and that letting Andrew know about my worries would push him away.
 
-I did everything I could to make things better. I couldn't tell my friends about it, because they were also Andrew's friends and I didn't want them to think badly of him. and because I was worried they would think I was crazy. I cried at a minimum once a week, but I always told myself it would get better. that things would change. 
+I did everything I could to make things better. I couldn't ask my friends for advice because they were also Andrew's friends and I didn't want them to think badly of him. and because I was worried they would think I was crazy. I cried at minimum once a week, but I always told myself it would get better. that things would change. 
 
-I started to notice my roommate, Claire, and Andrew getting together more. Claire was also in the teaching club. and the inclusivity club that I was excluded from. sometimes she spent the night at his place. Andrew mentioned it to me offhand once. he told me she was going through a tough time, and he was talking her through it. for obvious reasons this was concerning to me. but at this point I could no longer afford to voice my thoughts. I told myself it was fine. that Andrew was a good person and that Claire was a good person and that they would never do anything to hurt me. I never talked to Claire about it, either. and she never brought it up to me.
+I started to notice my roommate, Claire, and Andrew getting together more. Claire was also in the teaching club. and the inclusivity club that I was excluded from. sometimes she would spend the night at his place. Andrew mentioned it to me offhand once. he told me she was going through a tough time, and he was talking her through it. for obvious reasons this was concerning to me. but at this point I could no longer afford to voice my thoughts. I told myself it was fine. that Andrew was a good person and that Claire was a good person and that they would never do anything to hurt me. I never talked to Claire about it, either. and she never brought it up to me.
 
 there were others, too. Andrew had a lot of friends. lots of them would come over for dinner. just the two of them. which is fine, right? two friends can enjoy dinner together and it doesn't mean anything. Andrew would never do anything to hurt me. he loves me.
 
 I also couldn't help but notice how differently he spoke to me as compared to his friends. it was like he was a different person. even with strangers, there was just something different about him. he would smile, and he was chivalrous, and he would open the door for others, and he would say thank you and he would make jokes and if I was less cool and secure than maybe I would think that he was hitting on them but I am not that person. Andrew loves me and he would never do anything to hurt me.
+
+<p align="center">* * *</p>
 
 one night I texted Andrew asking if he had my suitcase. I couldn't remember if I had left it at his apartment or not and I couldn't find it in my dorm. I was getting ready for a trip back home the next morning and needed to pack. he texted back instantly and said he had it. at this point it must have been midnight or so.
 
@@ -272,7 +276,7 @@ so I step back out. I apologize for upsetting him. I tell him we'll talk in the 
 
 we move past it. a few months later, I still get worried, but I repeat the words to myself. he loves me. he would never do anything to hurt me. and that makes me feel better.
 
-we still get into fights every now and then but nothing serious. I never bring up what happened that night ever again. I never bring up Oliver. or Claire. or any of the others. I know if I do then I'll lose him.
+we still get into fights every now and then, but nothing serious. I never bring up what happened that night ever again. I never bring up Oliver. or Claire. or any of the others. I know if I do then I'll lose him.
 
 <p align="center">* * *</p>
 
