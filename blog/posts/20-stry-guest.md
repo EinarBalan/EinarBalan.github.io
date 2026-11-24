@@ -1,5 +1,5 @@
 # my guest
-words | 11/24/2026 
+1625 words | 11/24/2026 
 
 ----
 
@@ -73,7 +73,7 @@ Andrew managed a weak chuckle, and a smile. "That's a great story," he said.
 
 "oh yeah I play—"
 
-"my son's a boxer. like I said. I never understdood why. but he's a big dude. way bigger than me. who knows where he got those genes, maybe he's not mine! HA! but yeah he'll punch a dude in the face. I'm pretty athletic too, though. you know Charles Barkely. and Shaq, right? yeah well I picked Kenny Thomas's pocket once. you know Kenny Thomas. I went to school with him and we played pick up and I was so nervous. they split up the courts by skill level so I was on Kenny's court. and I picked his pocket. and you know what! he came up to me after and congratulated me! said I was one the best he'd ever seen. oh by the way my friend lives next door. he owns a few houses here actually. it's so nostaligc being here. but yeah just in case you were wondering. anyways so yeah that's a funny story. people love that story. picked his pocket..."
+"my son's a boxer. like I said. I never understood why. but he's a big dude. way bigger than me. who knows where he got those genes, maybe he's not mine! HA! but yeah he'll punch a dude in the face. I'm pretty athletic too, though. you know Charles Barkely. and Shaq, right? yeah well I picked Kenny Thomas's pocket once. you know Kenny Thomas. I went to school with him and we played pick up and I was so nervous. they split up the courts by skill level so I was on Kenny's court. and I picked his pocket. and you know what! he came up to me after and congratulated me! said I was one the best he'd ever seen. oh by the way my friend lives next door. he owns a few houses here actually. it's so nostalgic being here. but yeah just in case you were wondering. anyways so yeah that's a funny story. people love that story. picked his pocket..."
 
 the man stopped talking for a while, seemingly out of things to say. his eyes darted back and forth between Andrew and his living room. the TV was on but muted, tuned to sports center. there was a college football game on.
 
@@ -81,7 +81,7 @@ the man stopped talking for a while, seemingly out of things to say. his eyes da
 
 Andrew was strangely eager to impress the man. "well actually, it's funny you bring up your son because I'm—"
 
-"OH NO!!!!!!!!!!" the man turned away from Andrew and focused his attention onto the football game. "FUCK YOU! FUCKING PIECE OF... NO!!!!!". the man stood up, took his remaining shoe off, and threw it at the TV screen. then he walked toward the doorway where Andrew was standing, shook his hand on the way out and said "hey, good talking to you mean. nice to meet you." 
+"OH NO!!!!!!!!!!" the man turned away from Andrew and focused his attention onto the football game. "FUCK YOU! FUCKING PIECE OF... NO!!!!!". the man stood up, took his remaining shoe off, and threw it at the TV screen. then he walked toward the doorway where Andrew was standing, shook his hand on the way out and said "hey, good talking to you man. nice to meet you." 
 
 and then he left.
 
