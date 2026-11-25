@@ -17,13 +17,13 @@ one tuesday afternoon in fall, Andrew was on his way home a bit earlier than usu
 
 it was a particularly beautiful day. the whole ride all he could think about were the turning leaves on the trees, the sound of children laughing in the distance, and the deep blue, partially cloudy sky. he had a hike planned on the coming weekend with a friend he had met at the dog park (he didn't have a dog) and if the weather was anything like today's, he was sure it would be a wonderful time.
 
-twenty minutes later, Andrew pulled into his driveway. he lived in the kind of neighborhood that parents dream of, kids love, and teenagers can't wait to leave. the kind where you know all your neighbors and they all know you, and you often get together on weekends.
+twenty minutes later, Andrew pulled into his driveway. he lived in the kind of neighborhood that parents dream of, kids love, and that teenagers can't wait to leave. the kind where you know all your neighbors and they all know you, and you often get together on weekends.
 
 Andrew's neighbors all quite respected him, despite him being the only bachelor in the area. normally that would have been difficult to overcome, but given how fervently he decorated his house every holiday season, they were willing to look past it. with each year, he outdid himself, buying an enormous inflatable turkey for Thanksgiving or an obnoxiously bright, LED laden reindeer for Christmas.
 
 this year his proudest purchase was a groundbreaking, 20 foot tall, acrylic Jack Skellington statue that spoke intermittently, delivering such gems as "This year, Christmas will be ours!" and "I AM THE PUMPKIN KING!!" and of course he couldn't not get the accompanying ghost dog for $50 extra.
 
-to Andrew's surprise as he slammed his car door shut, he noticed that Zero the dog was sitting knocked over on it's back beside Jack. 
+to Andrew's surprise as he slammed his car door shut, he noticed that Zero the dog was sitting knocked over on its back beside Jack. 
 
 "*hm, must have been the wind,*" thought Andrew. he picked it up and drove the transparent stake back into the ground where he had placed it earlier, then started back down his driveway toward the garage door.
 
@@ -61,7 +61,7 @@ Andrew looked back at the doorway, which didn't have a door, and then at the man
 
 "oh well, I'm not quite there yet. I'm 25."
 
-"eh 25, 34. it's all the same. just wait til you're 75 like me. then you can talk. my son's a great guy though. you would like him. my youngest I mean. the oldest is an asshole. don't even get me started. my youngest does consulting at a pharmaceutical company out in Texas. been there a few years now. says he reallly likes it. and they pay well! it's a great job. it really is. he's far better off than I was at his age. which is what you want! it's great. really great. oh he's so funny. there's a funny story I like to tell people." he paused for a few moments and looked at Andrew expectingly.
+"eh 25, 34. it's all the same. just wait til you're 75 like me. then you can talk. my son's a great guy though. you would like him. my youngest I mean. the oldest is an asshole. don't even get me started. my youngest does consulting at a pharmaceutical company out in Texas. been there a few years now. says he reallly likes it. and they pay well! it's a great job. it really is. he's far better off than I was at his age. which is what you want! it's great. really great. oh he's so funny. there's a funny story I like to tell people." he paused for a few moments and looked at Andrew expectantly.
 
 Andrew stayed silent and stared back.
 
@@ -73,9 +73,9 @@ Andrew managed a weak chuckle, and a smile. "that's a great story," he said.
 
 "oh yeah I play—"
 
-"my son's a boxer. like I said. I never understood why. but he's a big dude. way bigger than me. who knows where he got those genes, maybe he's not mine! HA! but yeah he'll punch a dude in the face. I'm pretty athletic too, though. you know Charles Barkely. and Shaq, right? yeah well I picked Kenny Thomas's pocket once. you know Kenny Thomas. I went to school with him and we played pick up and I was so nervous. they split up the courts by skill level so I was on Kenny's court. and I picked his pocket. and you know what! he came up to me after and congratulated me! said I was one the best he'd ever seen. oh by the way my friend lives next door. he owns a few houses here actually. it's so nostalgic being here. but yeah just in case you were wondering. anyways so yeah that's a funny story. people love that story. picked his pocket..."
+"my son's a boxer. like I said. I never understood why. but he's a big dude. way bigger than me. who knows where he got those genes, maybe he's not mine! HA! but yeah he'll punch a dude in the face. I'm pretty athletic too, though. you know Charles Barkley. and Shaq, right? yeah well I picked Kenny Thomas's pocket once. you know Kenny Thomas. I went to school with him and we played pick up and I was so nervous. they split up the courts by skill level so I was on Kenny's court. and I picked his pocket. and you know what! he came up to me after and congratulated me! said I was one of the best he'd ever seen. oh by the way my friend lives next door. he owns a few houses here actually. it's so nostalgic being here. but yeah just in case you were wondering. anyways so yeah that's a funny story. people love that story. picked his pocket..."
 
-the man stopped talking for a while, seemingly out of things to say. his eyes darted back and forth between Andrew and his living room. the TV was on but muted, tuned to sports center. there was a college football game on.
+the man stopped talking for a while, seemingly out of things to say. his eyes darted back and forth between Andrew and his living room. the TV was on but muted, tuned to SportsCenter. there was a college football game on.
 
 "...so what do you do?" the man asked Andrew.
 
